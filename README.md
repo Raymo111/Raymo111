@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👋 Hi there! I'm https://Raymond.Li
 
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- 💻 I'm a full-stack software developer
+- 💼 I'm the founder and CEO of [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="25em" align="center" />](https://edgeprim.com)
+- 🎓 I'm studying Honours Computer Science with Co-op at the University of Waterloo, and I'll graduate in April 2025
+- This is a W.I.P. :)
