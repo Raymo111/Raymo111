@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 You can reach me at the email in my github profile. Follow me on my social media!
+
 [<img src="social/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on Instagram"/>](https://linkedin.com/in/Raymo111)
 [<img src="social/twitter.svg" height="40em" align="center" alt="Follow Raym0111 on Twitter" title="Follow Raymo111 on Instagram"/>](https://twitter.com/Raym0111)
 [<img src="social/instagram.svg" height="40em" align="center" alt="Follow Raymo111 on Instagram" title="Follow Raymo111 on Instagram"/>](https://instagram.com/Raymo111)
