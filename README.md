@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<!--Quick Link-->
-
+1. 🎉 Merged PR [#3](https://github.com//BayviewComputerClub/smoothie-react/pull/3) in [BayviewComputerClub/smoothie-react](https://github.com//BayviewComputerClub/smoothie-react)
+2. 🎉 Merged PR [#2](https://github.com//BayviewComputerClub/smoothie-react/pull/2) in [BayviewComputerClub/smoothie-react](https://github.com//BayviewComputerClub/smoothie-react)
+3. 🎉 Merged PR [#176](https://github.com//Raymo111/i3lock-color/pull/176) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+4. 💪 Opened PR [#176](https://github.com//Raymo111/i3lock-color/pull/176) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+5. ❌ Closed PR [#175](https://github.com//Raymo111/i3lock-color/pull/175) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚎 𝚘𝚗 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕 𝚖𝚎𝚍𝚒𝚊!
 
