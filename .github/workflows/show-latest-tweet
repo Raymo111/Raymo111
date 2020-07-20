@@ -25,7 +25,7 @@ jobs:
           CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
           CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
         run: |-
-          Rscript -e "source('script.R')"
+          Rscript -e "source('twitter.R')"
       - name: Commit results
         run: |
           git commit -m "Update the latest tweet" -a || echo "No changes to commit"
