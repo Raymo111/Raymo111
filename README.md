@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. 🎉 Merged PR [#2](https://github.com//Raymo111/awesome-github-profile-readme/pull/2) in [Raymo111/awesome-github-profile-readme](https://github.com//Raymo111/awesome-github-profile-readme)
+1. 🗣 Commented on [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+2. 🗣 Commented on [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+3. 🗣 Commented on [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+4. ❗️ Reopened issue [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+5. ❗️ Closed issue [#177](https://github.com//Raymo111/i3lock-color/issues/177) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
