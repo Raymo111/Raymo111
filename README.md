@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
 3. 🗣 Commented on [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
 4. 🗣 Commented on [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
-5. ❗️ Reopened issue [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+5. 🗣 Commented on [#173](https://github.com//Raymo111/i3lock-color/issues/173) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
