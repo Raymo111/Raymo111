@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🎉 Merged PR [#2](https://github.com//Raymo111/awesome-github-profile-readme/pull/2) in [Raymo111/awesome-github-profile-readme](https://github.com//Raymo111/awesome-github-profile-readme)
-3. 💪 Opened PR [#2](https://github.com//Raymo111/awesome-github-profile-readme/pull/2) in [Raymo111/awesome-github-profile-readme](https://github.com//Raymo111/awesome-github-profile-readme)
-4. 🎉 Merged PR [#1](https://github.com//Raymo111/awesome-github-profile-readme/pull/1) in [Raymo111/awesome-github-profile-readme](https://github.com//Raymo111/awesome-github-profile-readme)
-5. 💪 Opened PR [#1](https://github.com//Raymo111/awesome-github-profile-readme/pull/1) in [Raymo111/awesome-github-profile-readme](https://github.com//Raymo111/awesome-github-profile-readme)
+2. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+3. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+4. 🗣 Commented on [#127](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/127) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
+5. 🎉 Merged PR [#2](https://github.com//Raymo111/awesome-github-profile-readme/pull/2) in [Raymo111/awesome-github-profile-readme](https://github.com//Raymo111/awesome-github-profile-readme)
 <!--END_SECTION:activity-->
 
 <!--
