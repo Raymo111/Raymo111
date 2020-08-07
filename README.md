@@ -39,7 +39,6 @@ Here are some ideas to get you started:
 5. 🗣 Commented on [#178](https://github.com//Raymo111/i3lock-color/issues/178) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
-<!--
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
 <!--Quick Link-->
 
