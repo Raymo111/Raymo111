@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
-<a href="https://twitter.com/Raym0111/status/1291846947775619078" target="_blank">
+<a href="https://twitter.com/Raym0111" target="_blank">
 	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a>
 
