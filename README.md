@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com//YouthHax/youthhax.github.io/issues/14) in [YouthHax/youthhax.github.io](https://github.com//YouthHax/youthhax.github.io)
-2. 🗣 Commented on [#14](https://github.com//YouthHax/youthhax.github.io/issues/14) in [YouthHax/youthhax.github.io](https://github.com//YouthHax/youthhax.github.io)
-3. ❗️ Closed issue [#1](https://github.com//Raymo111/Raymo111/issues/1) in [Raymo111/Raymo111](https://github.com//Raymo111/Raymo111)
-4. 🗣 Commented on [#1](https://github.com//Raymo111/Raymo111/issues/1) in [Raymo111/Raymo111](https://github.com//Raymo111/Raymo111)
-5. 🗣 Commented on [#178](https://github.com//Raymo111/i3lock-color/issues/178) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
+1. 🗣 Commented on [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
+2. 🗣 Commented on [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
+3. ❗️ Opened issue [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
+4. 🗣 Commented on [#14](https://github.com//YouthHax/youthhax.github.io/issues/14) in [YouthHax/youthhax.github.io](https://github.com//YouthHax/youthhax.github.io)
+5. 🗣 Commented on [#14](https://github.com//YouthHax/youthhax.github.io/issues/14) in [YouthHax/youthhax.github.io](https://github.com//YouthHax/youthhax.github.io)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
