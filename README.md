@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
+1. 🎉 Merged PR [#2](https://github.com//BayviewComputerClub/bssccbot/pull/2) in [BayviewComputerClub/bssccbot](https://github.com//BayviewComputerClub/bssccbot)
 2. 🗣 Commented on [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
-3. ❗️ Opened issue [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
-4. 🗣 Commented on [#14](https://github.com//YouthHax/youthhax.github.io/issues/14) in [YouthHax/youthhax.github.io](https://github.com//YouthHax/youthhax.github.io)
+3. 🗣 Commented on [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
+4. ❗️ Opened issue [#19](https://github.com//education/hackconviii/issues/19) in [education/hackconviii](https://github.com//education/hackconviii)
 5. 🗣 Commented on [#14](https://github.com//YouthHax/youthhax.github.io/issues/14) in [YouthHax/youthhax.github.io](https://github.com//YouthHax/youthhax.github.io)
 <!--END_SECTION:activity-->
 
