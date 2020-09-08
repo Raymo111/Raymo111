@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
-2. ❗️ Reopened issue [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
+2. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
 3. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
 4. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
-5. ❗️ Closed issue [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
+5. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
