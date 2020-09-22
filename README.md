@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com//Raymo111/drracket-customization/issues/2) in [Raymo111/drracket-customization](https://github.com//Raymo111/drracket-customization)
-2. ❗️ Closed issue [#174](https://github.com//Raymo111/i3lock-color/issues/174) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
-3. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#2](https://github.com//Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com//Raymo111/kahoot-answer-bot)
+1. 🎉 Merged PR [#3](https://github.com//Raymo111/drracket-customization/pull/3) in [Raymo111/drracket-customization](https://github.com//Raymo111/drracket-customization)
+2. 💪 Opened PR [#3](https://github.com//Raymo111/drracket-customization/pull/3) in [Raymo111/drracket-customization](https://github.com//Raymo111/drracket-customization)
+3. 🎉 Merged PR [#1](https://github.com//Raymo111/drracket-customization/pull/1) in [Raymo111/drracket-customization](https://github.com//Raymo111/drracket-customization)
+4. ❗️ Opened issue [#2](https://github.com//Raymo111/drracket-customization/issues/2) in [Raymo111/drracket-customization](https://github.com//Raymo111/drracket-customization)
+5. ❗️ Closed issue [#174](https://github.com//Raymo111/i3lock-color/issues/174) in [Raymo111/i3lock-color](https://github.com//Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
