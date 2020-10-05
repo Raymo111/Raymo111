@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#169](https://github.com/Raymo111/i3lock-color/issues/169) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. ❗️ Opened issue [#2](https://github.com/Raymo111/emoji/issues/2) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
-3. ❗️ Opened issue [#1](https://github.com/Raymo111/emoji/issues/1) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
-4. ❗️ Opened issue [#4](https://github.com/Raymo111/drracket-customization/issues/4) in [Raymo111/drracket-customization](https://github.com/Raymo111/drracket-customization)
-5. 🎉 Merged PR [#3](https://github.com/Raymo111/drracket-customization/pull/3) in [Raymo111/drracket-customization](https://github.com/Raymo111/drracket-customization)
+1. 🎉 Merged PR [#2](https://github.com/Raymo111/Raymo111/pull/2) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
+2. 💪 Opened PR [#2](https://github.com/Raymo111/Raymo111/pull/2) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
+3. ❗️ Closed issue [#169](https://github.com/Raymo111/i3lock-color/issues/169) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Opened issue [#2](https://github.com/Raymo111/emoji/issues/2) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
+5. ❗️ Opened issue [#1](https://github.com/Raymo111/emoji/issues/1) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
