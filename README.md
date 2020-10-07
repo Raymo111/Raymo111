@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Raymo111/emoji/pull/4) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
-2. 💪 Opened PR [#4](https://github.com/Raymo111/emoji/pull/4) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
-3. 🎉 Merged PR [#3](https://github.com/Raymo111/emoji/pull/3) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
-4. 💪 Opened PR [#3](https://github.com/Raymo111/emoji/pull/3) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
-5. 🎉 Merged PR [#2](https://github.com/Raymo111/Raymo111/pull/2) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
+1. 💪 Opened PR [#1](https://github.com/zvory/guide-to-coop/pull/1) in [zvory/guide-to-coop](https://github.com/zvory/guide-to-coop)
+2. 🎉 Merged PR [#4](https://github.com/Raymo111/emoji/pull/4) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
+3. 💪 Opened PR [#4](https://github.com/Raymo111/emoji/pull/4) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
+4. 🎉 Merged PR [#3](https://github.com/Raymo111/emoji/pull/3) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
+5. 💪 Opened PR [#3](https://github.com/Raymo111/emoji/pull/3) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
