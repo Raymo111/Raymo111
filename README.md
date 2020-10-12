@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3822](https://github.com/darkreader/darkreader/pull/3822) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. 🎉 Merged PR [#183](https://github.com/Raymo111/i3lock-color/pull/183) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. ❗️ Closed issue [#182](https://github.com/Raymo111/i3lock-color/issues/182) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#182](https://github.com/Raymo111/i3lock-color/issues/182) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#5](https://github.com/Raymo111/cs135-drtools/pull/5) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+2. 💪 Opened PR [#3822](https://github.com/darkreader/darkreader/pull/3822) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. 🎉 Merged PR [#183](https://github.com/Raymo111/i3lock-color/pull/183) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Closed issue [#182](https://github.com/Raymo111/i3lock-color/issues/182) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 5. 🗣 Commented on [#182](https://github.com/Raymo111/i3lock-color/issues/182) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
