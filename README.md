@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#185](https://github.com/Raymo111/i3lock-color/pull/185) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. ❗️ Reopened issue [#184](https://github.com/Raymo111/i3lock-color/issues/184) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#184](https://github.com/Raymo111/i3lock-color/issues/184) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🎉 Merged PR [#8](https://github.com/Raymo111/cs135-drtools/pull/8) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-4. 🗣 Commented on [#4](https://github.com/Raymo111/cs135-drtools/issues/4) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-5. ❗️ Closed issue [#2](https://github.com/Raymo111/kahoot-answer-bot/issues/2) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🎉 Merged PR [#185](https://github.com/Raymo111/i3lock-color/pull/185) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Closed issue [#184](https://github.com/Raymo111/i3lock-color/issues/184) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 💪 Opened PR [#185](https://github.com/Raymo111/i3lock-color/pull/185) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
