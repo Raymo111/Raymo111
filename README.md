@@ -56,10 +56,10 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#11](https://github.com/Raymo111/cs135-drtools/issues/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-2. 🎉 Merged PR [#9](https://github.com/Raymo111/cs135-drtools/pull/9) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-3. 🗣 Commented on [#10](https://github.com/Raymo111/cs135-drtools/issues/10) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-4. 💪 Opened PR [#169](https://github.com/meskarune/i3lock-fancy/pull/169) in [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy)
-5. 🎉 Merged PR [#5](https://github.com/Raymo111/emoji/pull/5) in [Raymo111/emoji](https://github.com/Raymo111/emoji)
+2. 🗣 Commented on [#11](https://github.com/Raymo111/cs135-drtools/issues/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+3. 🎉 Merged PR [#9](https://github.com/Raymo111/cs135-drtools/pull/9) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+4. 🗣 Commented on [#10](https://github.com/Raymo111/cs135-drtools/issues/10) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+5. 💪 Opened PR [#169](https://github.com/meskarune/i3lock-fancy/pull/169) in [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
