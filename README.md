@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
-2. ❗️ Opened issue [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
-3. 🗣 Commented on [#11](https://github.com/Raymo111/cs135-drtools/issues/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+1. 🎉 Merged PR [#11](https://github.com/Raymo111/cs135-drtools/pull/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+2. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
+3. ❗️ Opened issue [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
 4. 🗣 Commented on [#11](https://github.com/Raymo111/cs135-drtools/issues/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-5. 🎉 Merged PR [#9](https://github.com/Raymo111/cs135-drtools/pull/9) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+5. 🗣 Commented on [#11](https://github.com/Raymo111/cs135-drtools/issues/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
