@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
 <table>
 	<tr>
 	</tr>
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 		</td>
 	</tr>
 </table>
-
+-->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
 - 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 𝚊𝚗𝚍 𝚂𝚆𝙴 𝚊𝚝 [<img src="https://edgeprim.com/assets/images/EdgePrim.svg" height="30em" align="center" alt="EdgePrim" title="EdgePrim"/>](https://edgeprim.com)
