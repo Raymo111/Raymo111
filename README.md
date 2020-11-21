@@ -55,10 +55,10 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#812](https://github.com/overleaf/overleaf/issues/812) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
-2. 🎉 Merged PR [#12](https://github.com/Raymo111/cs135-drtools/pull/12) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-3. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
-4. 🎉 Merged PR [#11](https://github.com/Raymo111/cs135-drtools/pull/11) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+1. ❌ Closed PR [#13](https://github.com/Raymo111/cs135-drtools/pull/13) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+2. 🗣 Commented on [#13](https://github.com/Raymo111/cs135-drtools/issues/13) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+3. ❗️ Opened issue [#812](https://github.com/overleaf/overleaf/issues/812) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
+4. 🎉 Merged PR [#12](https://github.com/Raymo111/cs135-drtools/pull/12) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
 5. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
 <!--END_SECTION:activity-->
 
