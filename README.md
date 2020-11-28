@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#13](https://github.com/Raymo111/cs135-drtools/pull/13) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-2. 🗣 Commented on [#13](https://github.com/Raymo111/cs135-drtools/issues/13) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-3. ❗️ Opened issue [#812](https://github.com/overleaf/overleaf/issues/812) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
-4. 🎉 Merged PR [#12](https://github.com/Raymo111/cs135-drtools/pull/12) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-5. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
+1. 🗣 Commented on [#187](https://github.com/Raymo111/i3lock-color/issues/187) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. ❌ Closed PR [#13](https://github.com/Raymo111/cs135-drtools/pull/13) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+3. 🗣 Commented on [#13](https://github.com/Raymo111/cs135-drtools/issues/13) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+4. ❗️ Opened issue [#812](https://github.com/overleaf/overleaf/issues/812) in [overleaf/overleaf](https://github.com/overleaf/overleaf)
+5. 🎉 Merged PR [#12](https://github.com/Raymo111/cs135-drtools/pull/12) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
