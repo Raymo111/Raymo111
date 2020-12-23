@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#889](https://github.com/cs136/seashell/issues/889) in [cs136/seashell](https://github.com/cs136/seashell)
-2. 🗣 Commented on [#889](https://github.com/cs136/seashell/issues/889) in [cs136/seashell](https://github.com/cs136/seashell)
-3. ❗️ Opened issue [#889](https://github.com/cs136/seashell/issues/889) in [cs136/seashell](https://github.com/cs136/seashell)
-4. 🗣 Commented on [#193](https://github.com/Raymo111/i3lock-color/issues/193) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. ❗️ Closed issue [#192](https://github.com/Raymo111/i3lock-color/issues/192) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. ❗️ Closed issue [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
+2. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
+3. 🗣 Commented on [#42](https://github.com/cathugger/mkp224o/issues/42) in [cathugger/mkp224o](https://github.com/cathugger/mkp224o)
+4. ❗️ Closed issue [#889](https://github.com/cs136/seashell/issues/889) in [cs136/seashell](https://github.com/cs136/seashell)
+5. 🗣 Commented on [#889](https://github.com/cs136/seashell/issues/889) in [cs136/seashell](https://github.com/cs136/seashell)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
