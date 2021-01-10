@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#33](https://github.com/gentoo/guru/issues/33) in [gentoo/guru](https://github.com/gentoo/guru)
-2. ❗️ Opened issue [#7793](https://github.com/nextcloud/android/issues/7793) in [nextcloud/android](https://github.com/nextcloud/android)
-3. 🗣 Commented on [#3](https://github.com/Raymo111/kahoot-answer-bot/issues/3) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#3](https://github.com/Raymo111/kahoot-answer-bot/issues/3) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#172](https://github.com/Raymo111/i3lock-color/issues/172) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#33](https://github.com/gentoo/guru/issues/33) in [gentoo/guru](https://github.com/gentoo/guru)
+2. 🗣 Commented on [#33](https://github.com/gentoo/guru/issues/33) in [gentoo/guru](https://github.com/gentoo/guru)
+3. ❗️ Opened issue [#33](https://github.com/gentoo/guru/issues/33) in [gentoo/guru](https://github.com/gentoo/guru)
+4. ❗️ Opened issue [#7793](https://github.com/nextcloud/android/issues/7793) in [nextcloud/android](https://github.com/nextcloud/android)
+5. 🗣 Commented on [#3](https://github.com/Raymo111/kahoot-answer-bot/issues/3) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
