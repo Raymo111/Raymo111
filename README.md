@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/Raymo111/i3lock-color/issues/201) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🎉 Merged PR [#1](https://github.com/Raymo111/latex-templates/pull/1) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
-3. 💪 Opened PR [#1](https://github.com/Raymo111/latex-templates/pull/1) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
-4. 🗣 Commented on [#3](https://github.com/Raymo111/kahoot-answer-bot/issues/3) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#4](https://github.com/Raymo111/kahoot-answer-bot/issues/4) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+1. 🗣 Commented on [#202](https://github.com/Raymo111/i3lock-color/issues/202) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#202](https://github.com/Raymo111/i3lock-color/issues/202) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#201](https://github.com/Raymo111/i3lock-color/issues/201) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🗣 Commented on [#201](https://github.com/Raymo111/i3lock-color/issues/201) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🎉 Merged PR [#1](https://github.com/Raymo111/latex-templates/pull/1) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
