@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 2. 🗣 Commented on [#205](https://github.com/Raymo111/i3lock-color/issues/205) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#205](https://github.com/Raymo111/i3lock-color/issues/205) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#205](https://github.com/Raymo111/i3lock-color/issues/205) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 💪 Opened PR [#38](https://github.com/overleaf/toolkit/pull/38) in [overleaf/toolkit](https://github.com/overleaf/toolkit)
+5. 🗣 Commented on [#205](https://github.com/Raymo111/i3lock-color/issues/205) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
