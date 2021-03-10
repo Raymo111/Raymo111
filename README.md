@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/Raymo111/kahoot-answer-bot/issues/5) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🗣 Commented on [#5](https://github.com/Raymo111/kahoot-answer-bot/issues/5) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🗣 Commented on [#5](https://github.com/Raymo111/kahoot-answer-bot/issues/5) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#5](https://github.com/Raymo111/kahoot-answer-bot/issues/5) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#5](https://github.com/BayviewComputerClub/smoothie-react/pull/5) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
+2. 🎉 Merged PR [#6](https://github.com/BayviewComputerClub/smoothie-react/pull/6) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
+3. 🎉 Merged PR [#7](https://github.com/BayviewComputerClub/smoothie-react/pull/7) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
+4. 🎉 Merged PR [#8](https://github.com/BayviewComputerClub/smoothie-react/pull/8) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
+5. ❗️ Closed issue [#5](https://github.com/Raymo111/kahoot-answer-bot/issues/5) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
