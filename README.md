@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/Raymo111/i3lock-color/issues/209) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#208](https://github.com/Raymo111/i3lock-color/issues/208) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. ❗️ Opened issue [#6](https://github.com/Raymo111/kahoot-answer-bot/issues/6) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+2. 🗣 Commented on [#209](https://github.com/Raymo111/i3lock-color/issues/209) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#208](https://github.com/Raymo111/i3lock-color/issues/208) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🎉 Merged PR [#5](https://github.com/BayviewComputerClub/smoothie-react/pull/5) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
-5. 🎉 Merged PR [#6](https://github.com/BayviewComputerClub/smoothie-react/pull/6) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
+4. 🗣 Commented on [#208](https://github.com/Raymo111/i3lock-color/issues/208) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🎉 Merged PR [#5](https://github.com/BayviewComputerClub/smoothie-react/pull/5) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
