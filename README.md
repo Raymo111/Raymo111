@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#71](https://github.com/cs130-w21/6/issues/71) in [cs130-w21/6](https://github.com/cs130-w21/6)
-2. ❗️ Opened issue [#71](https://github.com/cs130-w21/6/issues/71) in [cs130-w21/6](https://github.com/cs130-w21/6)
-3. ❌ Closed PR [#38](https://github.com/overleaf/toolkit/pull/38) in [overleaf/toolkit](https://github.com/overleaf/toolkit)
-4. 🗣 Commented on [#38](https://github.com/overleaf/toolkit/issues/38) in [overleaf/toolkit](https://github.com/overleaf/toolkit)
-5. ❗️ Opened issue [#7](https://github.com/Raymo111/kahoot-answer-bot/issues/7) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+1. ❗️ Closed issue [#210](https://github.com/Raymo111/i3lock-color/issues/210) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#210](https://github.com/Raymo111/i3lock-color/issues/210) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#71](https://github.com/cs130-w21/6/issues/71) in [cs130-w21/6](https://github.com/cs130-w21/6)
+4. ❗️ Opened issue [#71](https://github.com/cs130-w21/6/issues/71) in [cs130-w21/6](https://github.com/cs130-w21/6)
+5. ❌ Closed PR [#38](https://github.com/overleaf/toolkit/pull/38) in [overleaf/toolkit](https://github.com/overleaf/toolkit)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
