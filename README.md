@@ -68,8 +68,8 @@ Here are some ideas to get you started:
 1. 🗣 Commented on [#211](https://github.com/Raymo111/i3lock-color/issues/211) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#211](https://github.com/Raymo111/i3lock-color/issues/211) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#211](https://github.com/Raymo111/i3lock-color/issues/211) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#4](https://github.com/Raymo111/Raymo111/issues/4) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
-5. ❗️ Closed issue [#210](https://github.com/Raymo111/i3lock-color/issues/210) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🗣 Commented on [#211](https://github.com/Raymo111/i3lock-color/issues/211) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#4](https://github.com/Raymo111/Raymo111/issues/4) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
