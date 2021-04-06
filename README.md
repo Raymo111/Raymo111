@@ -65,9 +65,9 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. ❗️ Opened issue [#1210](https://github.com/Tampermonkey/tampermonkey/issues/1210) in [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey)
 2. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🗣 Commented on [#211](https://github.com/Raymo111/i3lock-color/issues/211) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#211](https://github.com/Raymo111/i3lock-color/issues/211) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 5. 🗣 Commented on [#211](https://github.com/Raymo111/i3lock-color/issues/211) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
