@@ -66,9 +66,9 @@ Here are some ideas to get you started:
 ## 🔔 𝙼𝚢 𝚁𝚎𝚌𝚎𝚗𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/microsoft/wslg/issues/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
-2. 💪 Opened PR [#16](https://github.com/microsoft/wslg/pull/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
-3. ❗️ Opened issue [#1210](https://github.com/Tampermonkey/tampermonkey/issues/1210) in [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey)
-4. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#16](https://github.com/microsoft/wslg/issues/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
+3. 💪 Opened PR [#16](https://github.com/microsoft/wslg/pull/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
+4. ❗️ Opened issue [#1210](https://github.com/Tampermonkey/tampermonkey/issues/1210) in [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey)
 5. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
