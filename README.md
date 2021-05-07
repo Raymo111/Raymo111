@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/BayviewComputerClub/smoothie-react/pull/9) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
-2. 🗣 Commented on [#16](https://github.com/microsoft/wslg/issues/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
+1. 🎉 Merged PR [#8](https://github.com/BayviewComputerClub/bssccbot/pull/8) in [BayviewComputerClub/bssccbot](https://github.com/BayviewComputerClub/bssccbot)
+2. 🎉 Merged PR [#9](https://github.com/BayviewComputerClub/smoothie-react/pull/9) in [BayviewComputerClub/smoothie-react](https://github.com/BayviewComputerClub/smoothie-react)
 3. 🗣 Commented on [#16](https://github.com/microsoft/wslg/issues/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
-4. 💪 Opened PR [#16](https://github.com/microsoft/wslg/pull/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
-5. ❗️ Opened issue [#1210](https://github.com/Tampermonkey/tampermonkey/issues/1210) in [Tampermonkey/tampermonkey](https://github.com/Tampermonkey/tampermonkey)
+4. 🗣 Commented on [#16](https://github.com/microsoft/wslg/issues/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
+5. 💪 Opened PR [#16](https://github.com/microsoft/wslg/pull/16) in [microsoft/wslg](https://github.com/microsoft/wslg)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
