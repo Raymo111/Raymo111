@@ -2,9 +2,9 @@ name: Show latest tweet
 
 on:
   push:
-    branches: [ master ]
-  schedule:
-    - cron: '0 * * * *'
+#     branches: [ master ]
+#   schedule:
+#     - cron: '0 * * * *'
       
 jobs:
   build:
