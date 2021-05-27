@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#208](https://github.com/Raymo111/i3lock-color/issues/208) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🎉 Merged PR [#212](https://github.com/Raymo111/i3lock-color/pull/212) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 💪 Opened PR [#212](https://github.com/Raymo111/i3lock-color/pull/212) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#300](https://github.com/i3/i3lock/issues/300) in [i3/i3lock](https://github.com/i3/i3lock)
-5. 🗣 Commented on [#9729](https://github.com/microsoft/PowerToys/issues/9729) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
+1. ❗️ Closed issue [#208](https://github.com/Raymo111/i3lock-color/issues/208) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#208](https://github.com/Raymo111/i3lock-color/issues/208) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#208](https://github.com/Raymo111/i3lock-color/issues/208) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🎉 Merged PR [#212](https://github.com/Raymo111/i3lock-color/pull/212) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 💪 Opened PR [#212](https://github.com/Raymo111/i3lock-color/pull/212) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
