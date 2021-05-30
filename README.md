@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#199](https://github.com/Raymo111/i3lock-color/issues/199) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. ❗️ Closed issue [#217](https://github.com/Raymo111/i3lock-color/issues/217) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🎉 Merged PR [#215](https://github.com/Raymo111/i3lock-color/pull/215) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🎉 Merged PR [#218](https://github.com/Raymo111/i3lock-color/pull/218) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#218](https://github.com/Raymo111/i3lock-color/issues/218) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#220](https://github.com/Raymo111/i3lock-color/pull/220) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🎉 Merged PR [#219](https://github.com/Raymo111/i3lock-color/pull/219) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. ❗️ Closed issue [#199](https://github.com/Raymo111/i3lock-color/issues/199) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Closed issue [#217](https://github.com/Raymo111/i3lock-color/issues/217) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🎉 Merged PR [#215](https://github.com/Raymo111/i3lock-color/pull/215) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
