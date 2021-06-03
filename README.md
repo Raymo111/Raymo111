@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/pavanjadhaw/betterlockscreen/issues/231) in [pavanjadhaw/betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
-2. 🗣 Commented on [#225](https://github.com/Raymo111/i3lock-color/issues/225) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🎉 Merged PR [#221](https://github.com/Raymo111/i3lock-color/pull/221) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🎉 Merged PR [#224](https://github.com/Raymo111/i3lock-color/pull/224) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. ❗️ Closed issue [#223](https://github.com/Raymo111/i3lock-color/issues/223) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#225](https://github.com/Raymo111/i3lock-color/issues/225) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#231](https://github.com/pavanjadhaw/betterlockscreen/issues/231) in [pavanjadhaw/betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
+3. 🗣 Commented on [#225](https://github.com/Raymo111/i3lock-color/issues/225) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🎉 Merged PR [#221](https://github.com/Raymo111/i3lock-color/pull/221) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🎉 Merged PR [#224](https://github.com/Raymo111/i3lock-color/pull/224) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝚃𝚠𝚎𝚎𝚝
