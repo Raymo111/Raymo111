@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Raymo111/oneplus-7t-root/issues/1) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
-2. 🎉 Merged PR [#227](https://github.com/Raymo111/i3lock-color/pull/227) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🎉 Merged PR [#226](https://github.com/Raymo111/i3lock-color/pull/226) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#225](https://github.com/Raymo111/i3lock-color/issues/225) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#231](https://github.com/pavanjadhaw/betterlockscreen/issues/231) in [pavanjadhaw/betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)
+1. ❗️ Closed issue [#8](https://github.com/Raymo111/kahoot-answer-bot/issues/8) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+2. 🗣 Commented on [#9](https://github.com/Raymo111/kahoot-answer-bot/issues/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 💪 Opened PR [#9](https://github.com/Raymo111/kahoot-answer-bot/pull/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. 🗣 Commented on [#8](https://github.com/Raymo111/kahoot-answer-bot/issues/8) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. ❗️ Closed issue [#1](https://github.com/Raymo111/oneplus-7t-root/issues/1) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
 <!--END_SECTION:activity-->
 
 <!--
