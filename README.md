@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/Raymo111/kahoot-answer-bot/issues/8) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+1. 🎉 Merged PR [#228](https://github.com/Raymo111/i3lock-color/pull/228) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#9](https://github.com/Raymo111/kahoot-answer-bot/issues/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 💪 Opened PR [#9](https://github.com/Raymo111/kahoot-answer-bot/pull/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#8](https://github.com/Raymo111/kahoot-answer-bot/issues/8) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. ❗️ Closed issue [#1](https://github.com/Raymo111/oneplus-7t-root/issues/1) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
+3. ❗️ Closed issue [#8](https://github.com/Raymo111/kahoot-answer-bot/issues/8) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. 🗣 Commented on [#9](https://github.com/Raymo111/kahoot-answer-bot/issues/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 💪 Opened PR [#9](https://github.com/Raymo111/kahoot-answer-bot/pull/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
