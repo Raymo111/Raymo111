@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/Raymo111/i3lock-color/issues/230) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#210](https://github.com/Raymo111/i3lock-color/issues/210) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🎉 Merged PR [#228](https://github.com/Raymo111/i3lock-color/pull/228) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#9](https://github.com/Raymo111/kahoot-answer-bot/issues/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. ❗️ Closed issue [#8](https://github.com/Raymo111/kahoot-answer-bot/issues/8) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+1. 💪 Opened PR [#1](https://github.com/Rio6/4D-TicTacToe/pull/1) in [Rio6/4D-TicTacToe](https://github.com/Rio6/4D-TicTacToe)
+2. 🗣 Commented on [#230](https://github.com/Raymo111/i3lock-color/issues/230) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#210](https://github.com/Raymo111/i3lock-color/issues/210) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🎉 Merged PR [#228](https://github.com/Raymo111/i3lock-color/pull/228) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#9](https://github.com/Raymo111/kahoot-answer-bot/issues/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
