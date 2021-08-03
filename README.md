@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#26](https://github.com/dokutan/mouse_m908/issues/26) in [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
-2. 💪 Opened PR [#1](https://github.com/Rio6/4D-TicTacToe/pull/1) in [Rio6/4D-TicTacToe](https://github.com/Rio6/4D-TicTacToe)
-3. 🗣 Commented on [#230](https://github.com/Raymo111/i3lock-color/issues/230) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#210](https://github.com/Raymo111/i3lock-color/issues/210) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🎉 Merged PR [#228](https://github.com/Raymo111/i3lock-color/pull/228) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#218](https://github.com/transmission/transmission/issues/218) in [transmission/transmission](https://github.com/transmission/transmission)
+2. 🗣 Commented on [#1080](https://github.com/transmission/transmission/issues/1080) in [transmission/transmission](https://github.com/transmission/transmission)
+3. ❗️ Opened issue [#26](https://github.com/dokutan/mouse_m908/issues/26) in [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
+4. 💪 Opened PR [#1](https://github.com/Rio6/4D-TicTacToe/pull/1) in [Rio6/4D-TicTacToe](https://github.com/Rio6/4D-TicTacToe)
+5. 🗣 Commented on [#230](https://github.com/Raymo111/i3lock-color/issues/230) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
