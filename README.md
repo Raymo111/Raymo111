@@ -65,8 +65,8 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/Raymo111/i3lock-color/issues/231) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#231](https://github.com/Raymo111/i3lock-color/issues/231) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#231](https://github.com/Raymo111/i3lock-color/pull/231) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. ❗️ Closed issue [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#231](https://github.com/Raymo111/i3lock-color/issues/231) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#231](https://github.com/Raymo111/i3lock-color/issues/231) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 5. 🗣 Commented on [#231](https://github.com/Raymo111/i3lock-color/issues/231) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
