@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#229](https://github.com/Raymo111/i3lock-color/pull/229) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🎉 Merged PR [#233](https://github.com/Raymo111/i3lock-color/pull/233) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 💪 Opened PR [#3](https://github.com/uwcsc/winter2022-internships/pull/3) in [uwcsc/winter2022-internships](https://github.com/uwcsc/winter2022-internships)
-4. ❗️ Closed issue [#26](https://github.com/dokutan/mouse_m908/issues/26) in [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
-5. 🗣 Commented on [#26](https://github.com/dokutan/mouse_m908/issues/26) in [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
+1. 🗣 Commented on [#231](https://github.com/Raymo111/i3lock-color/issues/231) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🎉 Merged PR [#229](https://github.com/Raymo111/i3lock-color/pull/229) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🎉 Merged PR [#233](https://github.com/Raymo111/i3lock-color/pull/233) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 💪 Opened PR [#3](https://github.com/uwcsc/winter2022-internships/pull/3) in [uwcsc/winter2022-internships](https://github.com/uwcsc/winter2022-internships)
+5. ❗️ Closed issue [#26](https://github.com/dokutan/mouse_m908/issues/26) in [dokutan/mouse_m908](https://github.com/dokutan/mouse_m908)
 <!--END_SECTION:activity-->
 
 <!--
