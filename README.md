@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/Raymo111/kahoot-answer-bot/issues/10) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. ❗️ Opened issue [#585](https://github.com/shiftkey/desktop/issues/585) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-3. 🗣 Commented on [#508](https://github.com/shiftkey/desktop/issues/508) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-4. 🗣 Commented on [#42](https://github.com/shiftkey/desktop/issues/42) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-5. 🗣 Commented on [#508](https://github.com/shiftkey/desktop/issues/508) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+1. 🗣 Commented on [#572](https://github.com/shiftkey/desktop/issues/572) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+2. 🗣 Commented on [#10](https://github.com/Raymo111/kahoot-answer-bot/issues/10) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. ❗️ Opened issue [#585](https://github.com/shiftkey/desktop/issues/585) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+4. 🗣 Commented on [#508](https://github.com/shiftkey/desktop/issues/508) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+5. 🗣 Commented on [#42](https://github.com/shiftkey/desktop/issues/42) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
 <!--END_SECTION:activity-->
 
 <!--
