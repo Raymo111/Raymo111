@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
-2. 🗣 Commented on [#727](https://github.com/mwittrien/BetterDiscordAddons/issues/727) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
-3. 🗣 Commented on [#290](https://github.com/transmission/transmission/issues/290) in [transmission/transmission](https://github.com/transmission/transmission)
-4. 🗣 Commented on [#572](https://github.com/shiftkey/desktop/issues/572) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-5. 🗣 Commented on [#10](https://github.com/Raymo111/kahoot-answer-bot/issues/10) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+1. ❗️ Closed issue [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
+2. 🗣 Commented on [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
+3. 🗣 Commented on [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
+4. 🗣 Commented on [#727](https://github.com/mwittrien/BetterDiscordAddons/issues/727) in [mwittrien/BetterDiscordAddons](https://github.com/mwittrien/BetterDiscordAddons)
+5. 🗣 Commented on [#290](https://github.com/transmission/transmission/issues/290) in [transmission/transmission](https://github.com/transmission/transmission)
 <!--END_SECTION:activity-->
 
 <!--
