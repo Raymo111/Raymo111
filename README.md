@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/shiftkey/desktop/issues/42) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+1. ❗️ Closed issue [#236](https://github.com/Raymo111/i3lock-color/issues/236) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#236](https://github.com/Raymo111/i3lock-color/issues/236) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. ❗️ Closed issue [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
-4. 🗣 Commented on [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
-5. 🗣 Commented on [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
+3. 🗣 Commented on [#42](https://github.com/shiftkey/desktop/issues/42) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+4. 🗣 Commented on [#236](https://github.com/Raymo111/i3lock-color/issues/236) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. ❗️ Closed issue [#1](https://github.com/Raymo111/iPetitions-Bot/issues/1) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
 <!--END_SECTION:activity-->
 
 <!--
