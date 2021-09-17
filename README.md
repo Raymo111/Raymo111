@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/giuspen/x-tile/issues/19) in [giuspen/x-tile](https://github.com/giuspen/x-tile)
-2. ❗️ Opened issue [#19](https://github.com/giuspen/x-tile/issues/19) in [giuspen/x-tile](https://github.com/giuspen/x-tile)
-3. 🗣 Commented on [#302](https://github.com/termux/termux-api/issues/302) in [termux/termux-api](https://github.com/termux/termux-api)
-4. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🎉 Merged PR [#237](https://github.com/Raymo111/i3lock-color/pull/237) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 💪 Opened PR [#1](https://github.com/SingularisArt/SingularisArt/pull/1) in [SingularisArt/SingularisArt](https://github.com/SingularisArt/SingularisArt)
+2. 🗣 Commented on [#19](https://github.com/giuspen/x-tile/issues/19) in [giuspen/x-tile](https://github.com/giuspen/x-tile)
+3. 🗣 Commented on [#19](https://github.com/giuspen/x-tile/issues/19) in [giuspen/x-tile](https://github.com/giuspen/x-tile)
+4. ❗️ Opened issue [#19](https://github.com/giuspen/x-tile/issues/19) in [giuspen/x-tile](https://github.com/giuspen/x-tile)
+5. 🗣 Commented on [#302](https://github.com/termux/termux-api/issues/302) in [termux/termux-api](https://github.com/termux/termux-api)
 <!--END_SECTION:activity-->
 
 <!--
