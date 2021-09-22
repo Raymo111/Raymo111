@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6850](https://github.com/darkreader/darkreader/issues/6850) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. 🗣 Commented on [#302](https://github.com/termux/termux-api/issues/302) in [termux/termux-api](https://github.com/termux/termux-api)
-3. ❗️ Closed issue [#204](https://github.com/Raymo111/i3lock-color/issues/204) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🎉 Merged PR [#230](https://github.com/Raymo111/i3lock-color/pull/230) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. ❗️ Closed issue [#19](https://github.com/giuspen/x-tile/issues/19) in [giuspen/x-tile](https://github.com/giuspen/x-tile)
+1. ❗️ Closed issue [#6850](https://github.com/darkreader/darkreader/issues/6850) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+2. 🗣 Commented on [#6850](https://github.com/darkreader/darkreader/issues/6850) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. 🗣 Commented on [#6850](https://github.com/darkreader/darkreader/issues/6850) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+4. ❗️ Opened issue [#6850](https://github.com/darkreader/darkreader/issues/6850) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+5. 🗣 Commented on [#302](https://github.com/termux/termux-api/issues/302) in [termux/termux-api](https://github.com/termux/termux-api)
 <!--END_SECTION:activity-->
 
 <!--
