@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#585](https://github.com/shiftkey/desktop/issues/585) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-2. 🗣 Commented on [#1273](https://github.com/pygments/pygments/issues/1273) in [pygments/pygments](https://github.com/pygments/pygments)
-3. 🗣 Commented on [#9729](https://github.com/microsoft/PowerToys/issues/9729) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
-4. ❗️ Closed issue [#6850](https://github.com/darkreader/darkreader/issues/6850) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-5. 🗣 Commented on [#6850](https://github.com/darkreader/darkreader/issues/6850) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+1. 🎉 Merged PR [#2](https://github.com/Raymo111/latex-templates/pull/2) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
+2. 💪 Opened PR [#2](https://github.com/Raymo111/latex-templates/pull/2) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
+3. 🗣 Commented on [#585](https://github.com/shiftkey/desktop/issues/585) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
+4. 🗣 Commented on [#1273](https://github.com/pygments/pygments/issues/1273) in [pygments/pygments](https://github.com/pygments/pygments)
+5. 🗣 Commented on [#9729](https://github.com/microsoft/PowerToys/issues/9729) in [microsoft/PowerToys](https://github.com/microsoft/PowerToys)
 <!--END_SECTION:activity-->
 
 <!--
