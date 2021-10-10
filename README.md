@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#243](https://github.com/Raymo111/i3lock-color/issues/243) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🎉 Merged PR [#2](https://github.com/Raymo111/latex-templates/pull/2) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
-3. 💪 Opened PR [#2](https://github.com/Raymo111/latex-templates/pull/2) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
-4. 🗣 Commented on [#585](https://github.com/shiftkey/desktop/issues/585) in [shiftkey/desktop](https://github.com/shiftkey/desktop)
-5. 🗣 Commented on [#1273](https://github.com/pygments/pygments/issues/1273) in [pygments/pygments](https://github.com/pygments/pygments)
+1. ❌ Closed PR [#14](https://github.com/Raymo111/cs135-drtools/pull/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+2. 🗣 Commented on [#14](https://github.com/Raymo111/cs135-drtools/issues/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+3. ❗️ Closed issue [#243](https://github.com/Raymo111/i3lock-color/issues/243) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🎉 Merged PR [#2](https://github.com/Raymo111/latex-templates/pull/2) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
+5. 💪 Opened PR [#2](https://github.com/Raymo111/latex-templates/pull/2) in [Raymo111/latex-templates](https://github.com/Raymo111/latex-templates)
 <!--END_SECTION:activity-->
 
 <!--
