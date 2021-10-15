@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/Raymo111/kahoot-answer-bot/issues/11) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🗣 Commented on [#1273](https://github.com/Jguer/yay/issues/1273) in [Jguer/yay](https://github.com/Jguer/yay)
-3. ❌ Closed PR [#14](https://github.com/Raymo111/cs135-drtools/pull/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-4. 🗣 Commented on [#14](https://github.com/Raymo111/cs135-drtools/issues/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-5. ❗️ Closed issue [#243](https://github.com/Raymo111/i3lock-color/issues/243) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#1315](https://github.com/Jguer/yay/issues/1315) in [Jguer/yay](https://github.com/Jguer/yay)
+2. 🗣 Commented on [#11](https://github.com/Raymo111/kahoot-answer-bot/issues/11) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🗣 Commented on [#1273](https://github.com/Jguer/yay/issues/1273) in [Jguer/yay](https://github.com/Jguer/yay)
+4. ❌ Closed PR [#14](https://github.com/Raymo111/cs135-drtools/pull/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+5. 🗣 Commented on [#14](https://github.com/Raymo111/cs135-drtools/issues/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
 <!--END_SECTION:activity-->
 
 <!--
