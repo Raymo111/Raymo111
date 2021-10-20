@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1315](https://github.com/Jguer/yay/issues/1315) in [Jguer/yay](https://github.com/Jguer/yay)
-2. 🗣 Commented on [#11](https://github.com/Raymo111/kahoot-answer-bot/issues/11) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🗣 Commented on [#1273](https://github.com/Jguer/yay/issues/1273) in [Jguer/yay](https://github.com/Jguer/yay)
-4. ❌ Closed PR [#14](https://github.com/Raymo111/cs135-drtools/pull/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-5. 🗣 Commented on [#14](https://github.com/Raymo111/cs135-drtools/issues/14) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+1. ❗️ Opened issue [#24](https://github.com/sarahkittyy/KeywordTracker/issues/24) in [sarahkittyy/KeywordTracker](https://github.com/sarahkittyy/KeywordTracker)
+2. ❗️ Opened issue [#23](https://github.com/sarahkittyy/KeywordTracker/issues/23) in [sarahkittyy/KeywordTracker](https://github.com/sarahkittyy/KeywordTracker)
+3. ❗️ Opened issue [#22](https://github.com/sarahkittyy/KeywordTracker/issues/22) in [sarahkittyy/KeywordTracker](https://github.com/sarahkittyy/KeywordTracker)
+4. 🗣 Commented on [#1315](https://github.com/Jguer/yay/issues/1315) in [Jguer/yay](https://github.com/Jguer/yay)
+5. 🗣 Commented on [#11](https://github.com/Raymo111/kahoot-answer-bot/issues/11) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
