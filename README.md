@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/Raymo111/kahoot-answer-bot/issues/14) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. ❗️ Opened issue [#16](https://github.com/Raymo111/kahoot-answer-bot/issues/16) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. ❗️ Opened issue [#15](https://github.com/Raymo111/kahoot-answer-bot/issues/15) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#11](https://github.com/Raymo111/kahoot-answer-bot/issues/11) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#13](https://github.com/Raymo111/kahoot-answer-bot/issues/13) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+1. 🗣 Commented on [#245](https://github.com/Raymo111/i3lock-color/issues/245) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#14](https://github.com/Raymo111/kahoot-answer-bot/issues/14) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. ❗️ Opened issue [#16](https://github.com/Raymo111/kahoot-answer-bot/issues/16) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. ❗️ Opened issue [#15](https://github.com/Raymo111/kahoot-answer-bot/issues/15) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🗣 Commented on [#11](https://github.com/Raymo111/kahoot-answer-bot/issues/11) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
