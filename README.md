@@ -69,11 +69,11 @@ Struggling through the Goriachka of my 2A CS term
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/Raymo111/i3lock-color/issues/110) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#2](https://github.com/Raymo111/oneplus-7t-root/issues/2) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
+1. 🗣 Commented on [#246](https://github.com/Raymo111/i3lock-color/issues/246) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#110](https://github.com/Raymo111/i3lock-color/issues/110) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#2](https://github.com/Raymo111/oneplus-7t-root/issues/2) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
-4. ❌ Closed PR [#2](https://github.com/Raymo111/oneplus-7t-root/pull/2) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
-5. 🗣 Commented on [#2](https://github.com/Raymo111/oneplus-7t-root/issues/2) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
+4. 🗣 Commented on [#2](https://github.com/Raymo111/oneplus-7t-root/issues/2) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
+5. ❌ Closed PR [#2](https://github.com/Raymo111/oneplus-7t-root/pull/2) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
 <!--END_SECTION:activity-->
 
 <!--
