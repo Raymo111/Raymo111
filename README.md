@@ -70,10 +70,10 @@ Struggling through the Goriachka of my 2A CS term
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. ❗️ Closed issue [#244](https://github.com/Raymo111/i3lock-color/issues/244) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🗣 Commented on [#244](https://github.com/Raymo111/i3lock-color/issues/244) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#248](https://github.com/Raymo111/i3lock-color/issues/248) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#248](https://github.com/Raymo111/i3lock-color/issues/248) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Closed issue [#244](https://github.com/Raymo111/i3lock-color/issues/244) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#244](https://github.com/Raymo111/i3lock-color/issues/244) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
