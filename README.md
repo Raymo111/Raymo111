@@ -69,7 +69,7 @@ Trying to start off my 2B term well
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#251](https://github.com/Raymo111/i3lock-color/pull/251) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#239](https://github.com/Raymo111/i3lock-color/issues/239) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
