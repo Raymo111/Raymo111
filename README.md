@@ -69,11 +69,11 @@ Trying to start off my 2B term well
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. ❗️ Reopened issue [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. ❗️ Closed issue [#252](https://github.com/Raymo111/i3lock-color/issues/252) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#252](https://github.com/Raymo111/i3lock-color/issues/252) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#253](https://github.com/Raymo111/i3lock-color/issues/253) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 💪 Opened PR [#13](https://github.com/vdukhovni/postfix/pull/13) in [vdukhovni/postfix](https://github.com/vdukhovni/postfix)
+2. 🗣 Commented on [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. ❗️ Reopened issue [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Closed issue [#252](https://github.com/Raymo111/i3lock-color/issues/252) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#252](https://github.com/Raymo111/i3lock-color/issues/252) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
