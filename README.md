@@ -69,11 +69,11 @@ Trying to start off my 2B term well
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#235](https://github.com/Raymo111/i3lock-color/issues/235) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#254](https://github.com/Raymo111/i3lock-color/issues/254) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🗣 Commented on [#1273](https://github.com/Jguer/yay/issues/1273) in [Jguer/yay](https://github.com/Jguer/yay)
+1. ❌ Closed PR [#235](https://github.com/Raymo111/i3lock-color/pull/235) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#235](https://github.com/Raymo111/i3lock-color/issues/235) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#254](https://github.com/Raymo111/i3lock-color/issues/254) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#1273](https://github.com/Jguer/yay/issues/1273) in [Jguer/yay](https://github.com/Jguer/yay)
-5. 💪 Opened PR [#13](https://github.com/vdukhovni/postfix/pull/13) in [vdukhovni/postfix](https://github.com/vdukhovni/postfix)
+5. 🗣 Commented on [#1273](https://github.com/Jguer/yay/issues/1273) in [Jguer/yay](https://github.com/Jguer/yay)
 <!--END_SECTION:activity-->
 
 <!--
