@@ -69,11 +69,11 @@ Trying to start off my 2B term well
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#254](https://github.com/Raymo111/i3lock-color/issues/254) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#254](https://github.com/Raymo111/i3lock-color/issues/254) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. ❗️ Closed issue [#3](https://github.com/Raymo111/oneplus-7t-root/issues/3) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
-4. ❗️ Closed issue [#4](https://github.com/Raymo111/oneplus-7t-root/issues/4) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
-5. 🗣 Commented on [#4](https://github.com/Raymo111/oneplus-7t-root/issues/4) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
+1. 🗣 Commented on [#254](https://github.com/Raymo111/i3lock-color/issues/254) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. ❗️ Closed issue [#254](https://github.com/Raymo111/i3lock-color/issues/254) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#254](https://github.com/Raymo111/i3lock-color/issues/254) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Closed issue [#3](https://github.com/Raymo111/oneplus-7t-root/issues/3) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
+5. ❗️ Closed issue [#4](https://github.com/Raymo111/oneplus-7t-root/issues/4) in [Raymo111/oneplus-7t-root](https://github.com/Raymo111/oneplus-7t-root)
 <!--END_SECTION:activity-->
 
 <!--
