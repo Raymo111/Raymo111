@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Raymo111/cs135-drtools/pull/15) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-2. 💪 Opened PR [#149509](https://github.com/microsoft/vscode/pull/149509) in [microsoft/vscode](https://github.com/microsoft/vscode)
-3. ❗️ Opened issue [#149508](https://github.com/microsoft/vscode/issues/149508) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. 🎉 Merged PR [#1](https://github.com/Raymo111/match-3/pull/1) in [Raymo111/match-3](https://github.com/Raymo111/match-3)
-5. 🗣 Commented on [#258](https://github.com/Raymo111/i3lock-color/issues/258) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#13](https://github.com/vdukhovni/postfix/issues/13) in [vdukhovni/postfix](https://github.com/vdukhovni/postfix)
+2. 🎉 Merged PR [#15](https://github.com/Raymo111/cs135-drtools/pull/15) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
+3. 💪 Opened PR [#149509](https://github.com/microsoft/vscode/pull/149509) in [microsoft/vscode](https://github.com/microsoft/vscode)
+4. ❗️ Opened issue [#149508](https://github.com/microsoft/vscode/issues/149508) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🎉 Merged PR [#1](https://github.com/Raymo111/match-3/pull/1) in [Raymo111/match-3](https://github.com/Raymo111/match-3)
 <!--END_SECTION:activity-->
 
 <!--
