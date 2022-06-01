@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/vdukhovni/postfix/issues/13) in [vdukhovni/postfix](https://github.com/vdukhovni/postfix)
-2. 🎉 Merged PR [#15](https://github.com/Raymo111/cs135-drtools/pull/15) in [Raymo111/cs135-drtools](https://github.com/Raymo111/cs135-drtools)
-3. 💪 Opened PR [#149509](https://github.com/microsoft/vscode/pull/149509) in [microsoft/vscode](https://github.com/microsoft/vscode)
-4. ❗️ Opened issue [#149508](https://github.com/microsoft/vscode/issues/149508) in [microsoft/vscode](https://github.com/microsoft/vscode)
-5. 🎉 Merged PR [#1](https://github.com/Raymo111/match-3/pull/1) in [Raymo111/match-3](https://github.com/Raymo111/match-3)
+1. ❗️ Closed issue [#14](https://github.com/Raymo111/kahoot-answer-bot/issues/14) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+2. 🗣 Commented on [#14](https://github.com/Raymo111/kahoot-answer-bot/issues/14) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🗣 Commented on [#17](https://github.com/Raymo111/kahoot-answer-bot/issues/17) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. ❗️ Closed issue [#17](https://github.com/Raymo111/kahoot-answer-bot/issues/17) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. ❗️ Closed issue [#18](https://github.com/Raymo111/kahoot-answer-bot/issues/18) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
