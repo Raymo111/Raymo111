@@ -70,10 +70,10 @@ Developing the CS 136L course (and the PS5 Control Center!)
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#19](https://github.com/Raymo111/kahoot-answer-bot/issues/19) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🗣 Commented on [#257](https://github.com/Raymo111/i3lock-color/issues/257) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. ❗️ Closed issue [#257](https://github.com/Raymo111/i3lock-color/issues/257) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#259](https://github.com/Raymo111/i3lock-color/issues/259) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#260](https://github.com/Raymo111/i3lock-color/issues/260) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#19](https://github.com/Raymo111/kahoot-answer-bot/issues/19) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🗣 Commented on [#257](https://github.com/Raymo111/i3lock-color/issues/257) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❗️ Closed issue [#257](https://github.com/Raymo111/i3lock-color/issues/257) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#259](https://github.com/Raymo111/i3lock-color/issues/259) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
