@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Raymo111/voiceprint/issues/1) in [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint)
-2. 🗣 Commented on [#19](https://github.com/Raymo111/kahoot-answer-bot/issues/19) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🗣 Commented on [#19](https://github.com/Raymo111/kahoot-answer-bot/issues/19) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#257](https://github.com/Raymo111/i3lock-color/issues/257) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. ❗️ Closed issue [#257](https://github.com/Raymo111/i3lock-color/issues/257) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. ❗️ Closed issue [#1](https://github.com/Raymo111/voiceprint/issues/1) in [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint)
+2. 🗣 Commented on [#1](https://github.com/Raymo111/voiceprint/issues/1) in [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint)
+3. 🗣 Commented on [#1](https://github.com/Raymo111/voiceprint/issues/1) in [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint)
+4. 🗣 Commented on [#19](https://github.com/Raymo111/kahoot-answer-bot/issues/19) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🗣 Commented on [#19](https://github.com/Raymo111/kahoot-answer-bot/issues/19) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
