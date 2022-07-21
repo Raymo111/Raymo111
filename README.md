@@ -72,8 +72,8 @@ Developing the CS 136L course (and the PS5 Control Center!)
 1. 🗣 Commented on [#238](https://github.com/Raymo111/i3lock-color/issues/238) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 2. 🗣 Commented on [#238](https://github.com/Raymo111/i3lock-color/issues/238) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 3. 🗣 Commented on [#238](https://github.com/Raymo111/i3lock-color/issues/238) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. ❗️ Closed issue [#1](https://github.com/Raymo111/voiceprint/issues/1) in [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint)
-5. 🗣 Commented on [#1](https://github.com/Raymo111/voiceprint/issues/1) in [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint)
+4. 🗣 Commented on [#238](https://github.com/Raymo111/i3lock-color/issues/238) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. ❗️ Closed issue [#1](https://github.com/Raymo111/voiceprint/issues/1) in [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint)
 <!--END_SECTION:activity-->
 
 <!--
