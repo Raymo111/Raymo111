@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/Raymo111/i3lock-color/issues/263) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#266](https://github.com/Raymo111/i3lock-color/issues/266) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. ❗️ Closed issue [#266](https://github.com/Raymo111/i3lock-color/issues/266) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#263](https://github.com/Raymo111/i3lock-color/issues/263) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#261](https://github.com/Raymo111/i3lock-color/issues/261) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#1](https://github.com/Raymo111/postfix/pull/1) in [Raymo111/postfix](https://github.com/Raymo111/postfix)
+2. 💪 Opened PR [#1](https://github.com/Raymo111/postfix/pull/1) in [Raymo111/postfix](https://github.com/Raymo111/postfix)
+3. 🗣 Commented on [#263](https://github.com/Raymo111/i3lock-color/issues/263) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🗣 Commented on [#266](https://github.com/Raymo111/i3lock-color/issues/266) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. ❗️ Closed issue [#266](https://github.com/Raymo111/i3lock-color/issues/266) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
