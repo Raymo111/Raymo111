@@ -70,10 +70,10 @@ Developing the CS 136L course (and the PS5 Control Center!)
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-2. ❗️ Opened issue [#333](https://github.com/uwcsc/codeybot/issues/333) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-3. 💪 Opened PR [#332](https://github.com/uwcsc/codeybot/pull/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-4. 🗣 Commented on [#258](https://github.com/Raymo111/i3lock-color/issues/258) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🎉 Merged PR [#1](https://github.com/Raymo111/postfix/pull/1) in [Raymo111/postfix](https://github.com/Raymo111/postfix)
+2. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
+3. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
+4. ❗️ Opened issue [#333](https://github.com/uwcsc/codeybot/issues/333) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
+5. 💪 Opened PR [#332](https://github.com/uwcsc/codeybot/pull/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
 <!--END_SECTION:activity-->
 
 <!--
