@@ -71,8 +71,8 @@ Developing the CS 136L course (and the PS5 Control Center!)
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
 2. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-3. ❗️ Opened issue [#334](https://github.com/uwcsc/codeybot/issues/334) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-4. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
+3. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
+4. ❗️ Opened issue [#334](https://github.com/uwcsc/codeybot/issues/334) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
 5. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
 <!--END_SECTION:activity-->
 
