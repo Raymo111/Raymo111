@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156075](https://github.com/microsoft/vscode/issues/156075) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-3. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-4. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
-5. ❗️ Opened issue [#334](https://github.com/uwcsc/codeybot/issues/334) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
+1. 🗣 Commented on [#262](https://github.com/Raymo111/i3lock-color/issues/262) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. ❗️ Closed issue [#136](https://github.com/Raymo111/i3lock-color/issues/136) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🎉 Merged PR [#256](https://github.com/Raymo111/i3lock-color/pull/256) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🗣 Commented on [#156075](https://github.com/microsoft/vscode/issues/156075) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. 🗣 Commented on [#332](https://github.com/uwcsc/codeybot/issues/332) in [uwcsc/codeybot](https://github.com/uwcsc/codeybot)
 <!--END_SECTION:activity-->
 
 <!--
