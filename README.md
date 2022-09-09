@@ -69,10 +69,10 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#267](https://github.com/Raymo111/i3lock-color/issues/267) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#267](https://github.com/Raymo111/i3lock-color/issues/267) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 💪 Opened PR [#11](https://github.com/SrS2225a/BetterDiscord/pull/11) in [SrS2225a/BetterDiscord](https://github.com/SrS2225a/BetterDiscord)
-4. 🗣 Commented on [#262](https://github.com/Raymo111/i3lock-color/issues/262) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#262](https://github.com/Raymo111/i3lock-color/issues/262) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. ❗️ Closed issue [#267](https://github.com/Raymo111/i3lock-color/issues/267) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#267](https://github.com/Raymo111/i3lock-color/issues/267) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 💪 Opened PR [#11](https://github.com/SrS2225a/BetterDiscord/pull/11) in [SrS2225a/BetterDiscord](https://github.com/SrS2225a/BetterDiscord)
 5. 🗣 Commented on [#262](https://github.com/Raymo111/i3lock-color/issues/262) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
