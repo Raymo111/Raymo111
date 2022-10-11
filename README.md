@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/psanford/tpm-fido/issues/13) in [psanford/tpm-fido](https://github.com/psanford/tpm-fido)
-2. ❌ Closed PR [#9](https://github.com/Raymo111/kahoot-answer-bot/pull/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🎉 Merged PR [#20](https://github.com/Raymo111/kahoot-answer-bot/pull/20) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#153](https://github.com/Raymo111/i3lock-color/issues/153) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. ❗️ Closed issue [#153](https://github.com/Raymo111/i3lock-color/issues/153) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#269](https://github.com/Raymo111/i3lock-color/issues/269) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. ❗️ Opened issue [#13](https://github.com/psanford/tpm-fido/issues/13) in [psanford/tpm-fido](https://github.com/psanford/tpm-fido)
+3. ❌ Closed PR [#9](https://github.com/Raymo111/kahoot-answer-bot/pull/9) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. 🎉 Merged PR [#20](https://github.com/Raymo111/kahoot-answer-bot/pull/20) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🗣 Commented on [#153](https://github.com/Raymo111/i3lock-color/issues/153) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
