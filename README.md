@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/kobjects/ktxml/issues/4) in [kobjects/ktxml](https://github.com/kobjects/ktxml)
-2. 💪 Opened PR [#4](https://github.com/kobjects/ktxml/pull/4) in [kobjects/ktxml](https://github.com/kobjects/ktxml)
-3. ❗️ Opened issue [#3](https://github.com/kobjects/ktxml/issues/3) in [kobjects/ktxml](https://github.com/kobjects/ktxml)
-4. 🗣 Commented on [#21](https://github.com/Raymo111/kahoot-answer-bot/issues/21) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 💪 Opened PR [#83](https://github.com/sholiday/Unofficial-Waterloo-USA-Intern-Guide/pull/83) in [sholiday/Unofficial-Waterloo-USA-Intern-Guide](https://github.com/sholiday/Unofficial-Waterloo-USA-Intern-Guide)
+1. 🗣 Commented on [#5](https://github.com/bitfireAT/dav4jvm/issues/5) in [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm)
+2. 💪 Opened PR [#5](https://github.com/bitfireAT/dav4jvm/pull/5) in [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm)
+3. 🗣 Commented on [#4](https://github.com/kobjects/ktxml/issues/4) in [kobjects/ktxml](https://github.com/kobjects/ktxml)
+4. 🗣 Commented on [#4](https://github.com/kobjects/ktxml/issues/4) in [kobjects/ktxml](https://github.com/kobjects/ktxml)
+5. 💪 Opened PR [#4](https://github.com/kobjects/ktxml/pull/4) in [kobjects/ktxml](https://github.com/kobjects/ktxml)
 <!--END_SECTION:activity-->
 
 <!--
