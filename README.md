@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7077](https://github.com/cloudflare/cloudflare-docs/pull/7077) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
-2. 🎉 Merged PR [#6](https://github.com/Raymo111/Raymo111/pull/6) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
-3. 🗣 Commented on [#5](https://github.com/bitfireAT/dav4jvm/issues/5) in [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm)
-4. 🗣 Commented on [#5](https://github.com/bitfireAT/dav4jvm/issues/5) in [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm)
-5. 💪 Opened PR [#5](https://github.com/bitfireAT/dav4jvm/pull/5) in [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm)
+1. ❗️ Reopened issue [#889](https://github.com/cs136/seashell/issues/889) in [cs136/seashell](https://github.com/cs136/seashell)
+2. 🗣 Commented on [#891](https://github.com/cs136/seashell/issues/891) in [cs136/seashell](https://github.com/cs136/seashell)
+3. ❗️ Opened issue [#891](https://github.com/cs136/seashell/issues/891) in [cs136/seashell](https://github.com/cs136/seashell)
+4. 💪 Opened PR [#7077](https://github.com/cloudflare/cloudflare-docs/pull/7077) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
+5. 🎉 Merged PR [#6](https://github.com/Raymo111/Raymo111/pull/6) in [Raymo111/Raymo111](https://github.com/Raymo111/Raymo111)
 <!--END_SECTION:activity-->
 
 <!--
