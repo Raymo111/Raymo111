@@ -69,11 +69,11 @@ Developing the CS 136L course (and the PS5 Control Center!)
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#22](https://github.com/Raymo111/kahoot-answer-bot/issues/22) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. ❗️ Closed issue [#24](https://github.com/Raymo111/kahoot-answer-bot/issues/24) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🗣 Commented on [#24](https://github.com/Raymo111/kahoot-answer-bot/issues/24) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#5](https://github.com/bitfireAT/dav4jvm/issues/5) in [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm)
-5. ❗️ Opened issue [#2](https://github.com/Raymo111/cyrano/issues/2) in [Raymo111/cyrano](https://github.com/Raymo111/cyrano)
+1. ❌ Closed PR [#25](https://github.com/Raymo111/kahoot-answer-bot/pull/25) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+2. ❗️ Closed issue [#22](https://github.com/Raymo111/kahoot-answer-bot/issues/22) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. ❗️ Closed issue [#24](https://github.com/Raymo111/kahoot-answer-bot/issues/24) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. 🗣 Commented on [#24](https://github.com/Raymo111/kahoot-answer-bot/issues/24) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🗣 Commented on [#5](https://github.com/bitfireAT/dav4jvm/issues/5) in [bitfireAT/dav4jvm](https://github.com/bitfireAT/dav4jvm)
 <!--END_SECTION:activity-->
 
 <!--
