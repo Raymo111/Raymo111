@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/iq-eq-us/voicebox/issues/4) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-2. 🎉 Merged PR [#7](https://github.com/iq-eq-us/voicebox/pull/7) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-3. 💪 Opened PR [#7](https://github.com/iq-eq-us/voicebox/pull/7) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-4. 🎉 Merged PR [#6](https://github.com/iq-eq-us/voicebox/pull/6) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-5. ❗️ Closed issue [#3](https://github.com/iq-eq-us/voicebox/issues/3) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+1. 🎉 Merged PR [#274](https://github.com/Raymo111/i3lock-color/pull/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🎉 Merged PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#274](https://github.com/Raymo111/i3lock-color/issues/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. ❌ Reopened PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. ❌ Closed PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
