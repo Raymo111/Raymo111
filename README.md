@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#274](https://github.com/Raymo111/i3lock-color/pull/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🎉 Merged PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🗣 Commented on [#274](https://github.com/Raymo111/i3lock-color/issues/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. ❌ Reopened PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. ❌ Closed PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 💪 Opened PR [#4638](https://github.com/adambard/learnxinyminutes-docs/pull/4638) in [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+2. 💪 Opened PR [#7546](https://github.com/pyinstaller/pyinstaller/pull/7546) in [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)
+3. 🎉 Merged PR [#274](https://github.com/Raymo111/i3lock-color/pull/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+4. 🎉 Merged PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#274](https://github.com/Raymo111/i3lock-color/issues/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
