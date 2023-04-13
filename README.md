@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4638](https://github.com/adambard/learnxinyminutes-docs/pull/4638) in [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
-2. 💪 Opened PR [#7546](https://github.com/pyinstaller/pyinstaller/pull/7546) in [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)
-3. 🎉 Merged PR [#274](https://github.com/Raymo111/i3lock-color/pull/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🎉 Merged PR [#273](https://github.com/Raymo111/i3lock-color/pull/273) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#274](https://github.com/Raymo111/i3lock-color/issues/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. ❌ Closed PR [#30](https://github.com/Raymo111/kahoot-answer-bot/pull/30) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+2. 🗣 Commented on [#30](https://github.com/Raymo111/kahoot-answer-bot/issues/30) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 💪 Opened PR [#4638](https://github.com/adambard/learnxinyminutes-docs/pull/4638) in [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+4. 💪 Opened PR [#7546](https://github.com/pyinstaller/pyinstaller/pull/7546) in [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)
+5. 🎉 Merged PR [#274](https://github.com/Raymo111/i3lock-color/pull/274) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
