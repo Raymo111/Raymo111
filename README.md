@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180950](https://github.com/microsoft/vscode/issues/180950) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗ Opened issue [#8](https://github.com/iq-eq-us/voicebox/issues/8) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-3. ❌ Closed PR [#30](https://github.com/Raymo111/kahoot-answer-bot/pull/30) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#30](https://github.com/Raymo111/kahoot-answer-bot/issues/30) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 💪 Opened PR [#4638](https://github.com/adambard/learnxinyminutes-docs/pull/4638) in [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs)
+1. 💪 Opened PR [#9](https://github.com/iq-eq-us/voicebox/pull/9) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+2. 🎉 Merged PR [#1](https://github.com/iq-eq-us/voicebox-api/pull/1) in [iq-eq-us/voicebox-api](https://github.com/iq-eq-us/voicebox-api)
+3. 💪 Opened PR [#1](https://github.com/iq-eq-us/voicebox-api/pull/1) in [iq-eq-us/voicebox-api](https://github.com/iq-eq-us/voicebox-api)
+4. 🗣 Commented on [#180950](https://github.com/microsoft/vscode/issues/180950) in [microsoft/vscode](https://github.com/microsoft/vscode)
+5. ❗ Opened issue [#8](https://github.com/iq-eq-us/voicebox/issues/8) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
 <!--END_SECTION:activity-->
 
 <!--
