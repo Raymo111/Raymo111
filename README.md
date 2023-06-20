@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/iq-eq-us/voicebox/pull/11) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-2. 💪 Opened PR [#11](https://github.com/iq-eq-us/voicebox/pull/11) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-3. ❌ Closed PR [#10](https://github.com/iq-eq-us/voicebox/pull/10) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-4. 💪 Opened PR [#10](https://github.com/iq-eq-us/voicebox/pull/10) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-5. 🎉 Merged PR [#9](https://github.com/iq-eq-us/voicebox/pull/9) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+1. 🗣 Commented on [#33](https://github.com/Raymo111/kahoot-answer-bot/issues/33) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+2. 🗣 Commented on [#16](https://github.com/Raymo111/kahoot-answer-bot/issues/16) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🔒 Closed issue [#29](https://github.com/Raymo111/kahoot-answer-bot/issues/29) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. 🗣 Commented on [#29](https://github.com/Raymo111/kahoot-answer-bot/issues/29) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🔒 Closed issue [#32](https://github.com/Raymo111/kahoot-answer-bot/issues/32) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
