@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#33](https://github.com/Raymo111/kahoot-answer-bot/issues/33) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 2. 🗣 Commented on [#33](https://github.com/Raymo111/kahoot-answer-bot/issues/33) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🗣 Commented on [#16](https://github.com/Raymo111/kahoot-answer-bot/issues/16) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🔒 Closed issue [#29](https://github.com/Raymo111/kahoot-answer-bot/issues/29) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#29](https://github.com/Raymo111/kahoot-answer-bot/issues/29) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🗣 Commented on [#33](https://github.com/Raymo111/kahoot-answer-bot/issues/33) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. 🗣 Commented on [#16](https://github.com/Raymo111/kahoot-answer-bot/issues/16) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🔒 Closed issue [#29](https://github.com/Raymo111/kahoot-answer-bot/issues/29) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 <!--END_SECTION:activity-->
 
 <!--
