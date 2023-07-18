@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/iq-eq-us/voicebox/pull/13) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-2. 🗣 Commented on [#7](https://github.com/CharaChorder/CCOS-firmware/issues/7#issuecomment-1623721947) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
-3. 💪 Opened PR [#149](https://github.com/JetBrains/ideolog/pull/149) in [JetBrains/ideolog](https://github.com/JetBrains/ideolog)
-4. 🗣 Commented on [#33](https://github.com/Raymo111/kahoot-answer-bot/pull/33#issuecomment-1602835305) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-5. 🗣 Commented on [#33](https://github.com/Raymo111/kahoot-answer-bot/pull/33#issuecomment-1601809240) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+1. 🔒 Closed issue [#12](https://github.com/iq-eq-us/voicebox/issues/12) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+2. 🎉 Merged PR [#13](https://github.com/iq-eq-us/voicebox/pull/13) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+3. 💪 Opened PR [#13](https://github.com/iq-eq-us/voicebox/pull/13) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+4. 🗣 Commented on [#7](https://github.com/CharaChorder/CCOS-firmware/issues/7#issuecomment-1623721947) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
+5. 💪 Opened PR [#149](https://github.com/JetBrains/ideolog/pull/149) in [JetBrains/ideolog](https://github.com/JetBrains/ideolog)
 <!--END_SECTION:activity-->
 
 <!--
