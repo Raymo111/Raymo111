@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/Raymo111/kahoot-answer-bot/pull/34) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🔒 Closed issue [#12](https://github.com/iq-eq-us/voicebox/issues/12) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-3. 🎉 Merged PR [#13](https://github.com/iq-eq-us/voicebox/pull/13) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-4. 💪 Opened PR [#13](https://github.com/iq-eq-us/voicebox/pull/13) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
-5. 🗣 Commented on [#7](https://github.com/CharaChorder/CCOS-firmware/issues/7#issuecomment-1623721947) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
+1. 🚀 Published release [2.13.c.5](https://github.com/Raymo111/i3lock-color/releases/tag/2.13.c.5) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🎉 Merged PR [#34](https://github.com/Raymo111/kahoot-answer-bot/pull/34) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🔒 Closed issue [#12](https://github.com/iq-eq-us/voicebox/issues/12) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+4. 🎉 Merged PR [#13](https://github.com/iq-eq-us/voicebox/pull/13) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
+5. 💪 Opened PR [#13](https://github.com/iq-eq-us/voicebox/pull/13) in [iq-eq-us/voicebox](https://github.com/iq-eq-us/voicebox)
 <!--END_SECTION:activity-->
 
 <!--
