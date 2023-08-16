@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#288](https://github.com/Raymo111/i3lock-color/issues/288#issuecomment-1662532626) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-1660796026) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🗣 Commented on [#281](https://github.com/Raymo111/i3lock-color/issues/281#issuecomment-1659680228) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#281](https://github.com/Raymo111/i3lock-color/issues/281#issuecomment-1659580029) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#283](https://github.com/Raymo111/i3lock-color/issues/283#issuecomment-1659577326) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🔒 Closed issue [#20](https://github.com/CharaChorder/nexus/issues/20) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🔒 Closed issue [#19](https://github.com/CharaChorder/nexus/issues/19) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🔒 Closed issue [#21](https://github.com/CharaChorder/nexus/issues/21) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🗣 Commented on [#288](https://github.com/Raymo111/i3lock-color/issues/288#issuecomment-1662532626) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-1660796026) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
