@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#21](https://github.com/Raymo111/kahoot-answer-bot/issues/21) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🗣 Commented on [#53](https://github.com/CharaChorder/nexus/pull/53#issuecomment-1695987039) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 💪 Opened PR [#53](https://github.com/CharaChorder/nexus/pull/53) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🗣 Commented on [#52](https://github.com/CharaChorder/nexus/issues/52#issuecomment-1694767170) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🎉 Merged PR [#51](https://github.com/CharaChorder/nexus/pull/51) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 🔒 Closed issue [#47](https://github.com/CharaChorder/nexus/issues/47) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🔒 Closed issue [#44](https://github.com/CharaChorder/nexus/issues/44) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🎉 Merged PR [#53](https://github.com/CharaChorder/nexus/pull/53) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🔒 Closed issue [#21](https://github.com/Raymo111/kahoot-answer-bot/issues/21) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🗣 Commented on [#53](https://github.com/CharaChorder/nexus/pull/53#issuecomment-1695987039) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
