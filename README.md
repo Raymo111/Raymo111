@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/Raymo111/github-notif-filter/issues/1) in [Raymo111/github-notif-filter](https://github.com/Raymo111/github-notif-filter)
-2. 🚀 Published release [Initial release](https://github.com/Raymo111/GitHub-utils/releases/tag/v0.1) in [Raymo111/GitHub-utils](https://github.com/Raymo111/GitHub-utils)
-3. 🗣 Commented on [#289](https://github.com/Raymo111/i3lock-color/issues/289#issuecomment-1703938034) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#289](https://github.com/Raymo111/i3lock-color/issues/289#issuecomment-1703777442) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#59](https://github.com/CharaChorder/nexus/issues/59#issuecomment-1702711421) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 🗣 Commented on [#11242](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/11242#issuecomment-1710714931) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+2. ❗ Opened issue [#1](https://github.com/Raymo111/github-notif-filter/issues/1) in [Raymo111/github-notif-filter](https://github.com/Raymo111/github-notif-filter)
+3. 🚀 Published release [Initial release](https://github.com/Raymo111/GitHub-utils/releases/tag/v0.1) in [Raymo111/GitHub-utils](https://github.com/Raymo111/GitHub-utils)
+4. 🗣 Commented on [#289](https://github.com/Raymo111/i3lock-color/issues/289#issuecomment-1703938034) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🗣 Commented on [#289](https://github.com/Raymo111/i3lock-color/issues/289#issuecomment-1703777442) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
