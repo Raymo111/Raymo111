@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/CharaChorder/nexus/pull/62) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. ❗ Opened issue [#61](https://github.com/CharaChorder/nexus/issues/61) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 🗣 Commented on [#11242](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/11242#issuecomment-1710761501) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-4. ❗ Opened issue [#60](https://github.com/CharaChorder/nexus/issues/60) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🗣 Commented on [#11242](https://github.com/AUTOMATIC1111/stable-diffusion-webui/issues/11242#issuecomment-1710714931) in [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+1. ❗ Opened issue [#63](https://github.com/CharaChorder/nexus/issues/63) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🔒 Closed issue [#56](https://github.com/CharaChorder/nexus/issues/56) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🎉 Merged PR [#62](https://github.com/CharaChorder/nexus/pull/62) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 💪 Opened PR [#62](https://github.com/CharaChorder/nexus/pull/62) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. ❗ Opened issue [#61](https://github.com/CharaChorder/nexus/issues/61) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
