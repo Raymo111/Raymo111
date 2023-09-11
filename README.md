@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#63](https://github.com/CharaChorder/nexus/issues/63) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. 🔒 Closed issue [#56](https://github.com/CharaChorder/nexus/issues/56) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 🎉 Merged PR [#62](https://github.com/CharaChorder/nexus/pull/62) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 💪 Opened PR [#62](https://github.com/CharaChorder/nexus/pull/62) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. ❗ Opened issue [#61](https://github.com/CharaChorder/nexus/issues/61) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 🗣 Commented on [#42](https://github.com/CharaChorder/CCOS-firmware/issues/42#issuecomment-1714517322) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
+2. 🗣 Commented on [#42](https://github.com/CharaChorder/CCOS-firmware/issues/42#issuecomment-1714514062) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
+3. 🗣 Commented on [#42](https://github.com/CharaChorder/CCOS-firmware/issues/42#issuecomment-1714510554) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
+4. 🗣 Commented on [#42](https://github.com/CharaChorder/CCOS-firmware/issues/42#issuecomment-1714507218) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
+5. ❗ Opened issue [#42](https://github.com/CharaChorder/CCOS-firmware/issues/42) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
 <!--END_SECTION:activity-->
 
 <!--
