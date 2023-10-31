@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/CharaChorder/nexus/issues/8) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. 🎉 Merged PR [#75](https://github.com/CharaChorder/nexus/pull/75) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. ❗ Opened issue [#78](https://github.com/CharaChorder/nexus/issues/78) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🔒 Closed issue [#59](https://github.com/CharaChorder/nexus/issues/59) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🎉 Merged PR [#74](https://github.com/CharaChorder/nexus/pull/74) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 💪 Opened PR [#80](https://github.com/CharaChorder/nexus/pull/80) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🔒 Closed issue [#13](https://github.com/CharaChorder/nexus/issues/13) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🔒 Closed issue [#8](https://github.com/CharaChorder/nexus/issues/8) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🎉 Merged PR [#75](https://github.com/CharaChorder/nexus/pull/75) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. ❗ Opened issue [#78](https://github.com/CharaChorder/nexus/issues/78) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
