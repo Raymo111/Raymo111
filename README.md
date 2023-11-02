@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#81](https://github.com/CharaChorder/nexus/pull/81) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. 🗣 Commented on [#6](https://github.com/CharaChorder/nexus/issues/6#issuecomment-1789160059) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 🔒 Closed issue [#6](https://github.com/CharaChorder/nexus/issues/6) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🔒 Closed issue [#76](https://github.com/CharaChorder/nexus/issues/76) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🎉 Merged PR [#80](https://github.com/CharaChorder/nexus/pull/80) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. ❗ Opened issue [#82](https://github.com/CharaChorder/nexus/issues/82) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 💪 Opened PR [#81](https://github.com/CharaChorder/nexus/pull/81) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🗣 Commented on [#6](https://github.com/CharaChorder/nexus/issues/6#issuecomment-1789160059) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🔒 Closed issue [#6](https://github.com/CharaChorder/nexus/issues/6) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🔒 Closed issue [#76](https://github.com/CharaChorder/nexus/issues/76) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
