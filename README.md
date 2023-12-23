@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/CharaChorder/docs/issues/29#issuecomment-1858979162) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
-2. 💪 Opened PR [#110](https://github.com/CharaChorder/nexus/pull/110) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 🔒 Closed issue [#98](https://github.com/CharaChorder/nexus/issues/98) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🎉 Merged PR [#106](https://github.com/CharaChorder/nexus/pull/106) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🎉 Merged PR [#105](https://github.com/CharaChorder/nexus/pull/105) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. ❗ Opened issue [#112](https://github.com/CharaChorder/nexus/issues/112) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🗣 Commented on [#17](https://github.com/kurtanr/WiXInstallerExamples/issues/17#issuecomment-1868208553) in [kurtanr/WiXInstallerExamples](https://github.com/kurtanr/WiXInstallerExamples)
+3. 🗣 Commented on [#29](https://github.com/CharaChorder/docs/issues/29#issuecomment-1858979162) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+4. 💪 Opened PR [#110](https://github.com/CharaChorder/nexus/pull/110) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🔒 Closed issue [#98](https://github.com/CharaChorder/nexus/issues/98) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
