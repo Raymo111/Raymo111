@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#127](https://github.com/CharaChorder/nexus/pull/127) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. ❗ Opened issue [#1456](https://github.com/huggingface/text-generation-inference/issues/1456) in [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
-3. 🎉 Merged PR [#293](https://github.com/Raymo111/i3lock-color/pull/293) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🔒 Closed issue [#290](https://github.com/Raymo111/i3lock-color/issues/290) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#290](https://github.com/Raymo111/i3lock-color/issues/290#issuecomment-1875688509) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🔒 Closed issue [#291](https://github.com/Raymo111/i3lock-color/issues/291) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#291](https://github.com/Raymo111/i3lock-color/issues/291#issuecomment-1905298691) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 💪 Opened PR [#127](https://github.com/CharaChorder/nexus/pull/127) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. ❗ Opened issue [#1456](https://github.com/huggingface/text-generation-inference/issues/1456) in [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference)
+5. 🎉 Merged PR [#293](https://github.com/Raymo111/i3lock-color/pull/293) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
