@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2330](https://github.com/pqrs-org/Karabiner-Elements/issues/2330#issuecomment-1912910577) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
-2. 🔒 Closed issue [#108](https://github.com/CharaChorder/nexus/issues/108) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 🔒 Closed issue [#120](https://github.com/CharaChorder/nexus/issues/120) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🎉 Merged PR [#127](https://github.com/CharaChorder/nexus/pull/127) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🔒 Closed issue [#291](https://github.com/Raymo111/i3lock-color/issues/291) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#126](https://github.com/CharaChorder/nexus/pull/126) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🔒 Closed issue [#121](https://github.com/CharaChorder/nexus/issues/121) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🎉 Merged PR [#122](https://github.com/CharaChorder/nexus/pull/122) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🎉 Merged PR [#116](https://github.com/CharaChorder/nexus/pull/116) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🗣 Commented on [#2330](https://github.com/pqrs-org/Karabiner-Elements/issues/2330#issuecomment-1912910577) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
 <!--END_SECTION:activity-->
 
 <!--
