@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#126](https://github.com/CharaChorder/nexus/pull/126) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. 🔒 Closed issue [#121](https://github.com/CharaChorder/nexus/issues/121) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 🎉 Merged PR [#122](https://github.com/CharaChorder/nexus/pull/122) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🎉 Merged PR [#116](https://github.com/CharaChorder/nexus/pull/116) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🗣 Commented on [#2330](https://github.com/pqrs-org/Karabiner-Elements/issues/2330#issuecomment-1912910577) in [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)
+1. 🎉 Merged PR [#129](https://github.com/CharaChorder/nexus/pull/129) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🎉 Merged PR [#126](https://github.com/CharaChorder/nexus/pull/126) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🔒 Closed issue [#121](https://github.com/CharaChorder/nexus/issues/121) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🎉 Merged PR [#122](https://github.com/CharaChorder/nexus/pull/122) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🎉 Merged PR [#116](https://github.com/CharaChorder/nexus/pull/116) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
