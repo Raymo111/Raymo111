@@ -65,11 +65,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#37](https://github.com/Raymo111/kahoot-answer-bot/issues/37) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🗣 Commented on [#37](https://github.com/Raymo111/kahoot-answer-bot/issues/37#issuecomment-2024391929) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-3. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-2024204135) in [SCons/scons](https://github.com/SCons/scons)
-4. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-1996117438) in [SCons/scons](https://github.com/SCons/scons)
-5. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-1990125050) in [SCons/scons](https://github.com/SCons/scons)
+1. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-2027780094) in [SCons/scons](https://github.com/SCons/scons)
+2. 🔒 Closed issue [#37](https://github.com/Raymo111/kahoot-answer-bot/issues/37) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+3. 🗣 Commented on [#37](https://github.com/Raymo111/kahoot-answer-bot/issues/37#issuecomment-2024391929) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+4. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-2024204135) in [SCons/scons](https://github.com/SCons/scons)
+5. 🗣 Commented on [#4485](https://github.com/SCons/scons/pull/4485#issuecomment-1996117438) in [SCons/scons](https://github.com/SCons/scons)
 <!--END_SECTION:activity-->
 
 <!--
