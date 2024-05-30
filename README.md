@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-2097249285) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 💪 Opened PR [#130](https://github.com/CharaChorder/nexus/pull/130) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 🗣 Commented on [#424](https://github.com/moses-palmer/pynput/issues/424#issuecomment-2084327420) in [moses-palmer/pynput](https://github.com/moses-palmer/pynput)
-4. 🗣 Commented on [#299](https://github.com/Raymo111/i3lock-color/issues/299#issuecomment-2084177037) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 🗣 Commented on [#2](https://github.com/jamespfennell/xz/pull/2#issuecomment-2030999621) in [jamespfennell/xz](https://github.com/jamespfennell/xz)
+1. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140762324) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
+2. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-2097249285) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 💪 Opened PR [#130](https://github.com/CharaChorder/nexus/pull/130) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🗣 Commented on [#424](https://github.com/moses-palmer/pynput/issues/424#issuecomment-2084327420) in [moses-palmer/pynput](https://github.com/moses-palmer/pynput)
+5. 🗣 Commented on [#299](https://github.com/Raymo111/i3lock-color/issues/299#issuecomment-2084177037) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 <!--END_SECTION:activity-->
 
 <!--
