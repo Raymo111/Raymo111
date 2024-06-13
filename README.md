@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140772750) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
-2. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140768622) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
-3. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140762324) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
-4. 🗣 Commented on [#286](https://github.com/Raymo111/i3lock-color/pull/286#issuecomment-2097249285) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-5. 💪 Opened PR [#130](https://github.com/CharaChorder/nexus/pull/130) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 🔒 Closed issue [#301](https://github.com/Raymo111/i3lock-color/issues/301) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 🗣 Commented on [#301](https://github.com/Raymo111/i3lock-color/issues/301#issuecomment-2165888786) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+3. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140772750) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
+4. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140768622) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
+5. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140762324) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
 <!--END_SECTION:activity-->
 
 <!--
