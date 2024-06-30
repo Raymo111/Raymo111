@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#136](https://github.com/CharaChorder/nexus/pull/136) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. 🎉 Merged PR [#135](https://github.com/CharaChorder/nexus/pull/135) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. 💪 Opened PR [#135](https://github.com/CharaChorder/nexus/pull/135) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🎉 Merged PR [#131](https://github.com/CharaChorder/nexus/pull/131) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🔒 Closed issue [#301](https://github.com/Raymo111/i3lock-color/issues/301) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🎉 Merged PR [#136](https://github.com/CharaChorder/nexus/pull/136) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 💪 Opened PR [#136](https://github.com/CharaChorder/nexus/pull/136) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🎉 Merged PR [#135](https://github.com/CharaChorder/nexus/pull/135) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 💪 Opened PR [#135](https://github.com/CharaChorder/nexus/pull/135) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🎉 Merged PR [#131](https://github.com/CharaChorder/nexus/pull/131) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
