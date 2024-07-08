@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#131](https://github.com/CharaChorder/nexus/pull/131) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. 🔒 Closed issue [#301](https://github.com/Raymo111/i3lock-color/issues/301) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-3. 🗣 Commented on [#301](https://github.com/Raymo111/i3lock-color/issues/301#issuecomment-2165888786) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140772750) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
-5. 🗣 Commented on [#3000](https://github.com/LibreSign/libresign/issues/3000#issuecomment-2140768622) in [LibreSign/libresign](https://github.com/LibreSign/libresign)
+1. 💪 Opened PR [#2](https://github.com/CharaChorder/charachorder.py/pull/2) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+2. 🎉 Merged PR [#1](https://github.com/CharaChorder/charachorder.py/pull/1) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+3. 💪 Opened PR [#1](https://github.com/CharaChorder/charachorder.py/pull/1) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+4. 💪 Opened PR [#68](https://github.com/CharaChorder/docs/pull/68) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+5. 🎉 Merged PR [#137](https://github.com/CharaChorder/nexus/pull/137) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
