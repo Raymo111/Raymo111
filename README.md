@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#937](https://github.com/boltgolt/howdy/issues/937) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
-2. 💪 Opened PR [#2](https://github.com/CharaChorder/charachorder.py/pull/2) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-3. 🎉 Merged PR [#1](https://github.com/CharaChorder/charachorder.py/pull/1) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-4. 💪 Opened PR [#1](https://github.com/CharaChorder/charachorder.py/pull/1) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-5. 💪 Opened PR [#68](https://github.com/CharaChorder/docs/pull/68) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+1. 🎉 Merged PR [#3](https://github.com/CharaChorder/charachorder.py/pull/3) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+2. ❗ Opened issue [#937](https://github.com/boltgolt/howdy/issues/937) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
+3. 💪 Opened PR [#2](https://github.com/CharaChorder/charachorder.py/pull/2) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+4. 🎉 Merged PR [#1](https://github.com/CharaChorder/charachorder.py/pull/1) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+5. 💪 Opened PR [#1](https://github.com/CharaChorder/charachorder.py/pull/1) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
 <!--END_SECTION:activity-->
 
 <!--
