@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#141](https://github.com/CharaChorder/DeviceManager/issues/141) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-2. ❗ Opened issue [#140](https://github.com/CharaChorder/DeviceManager/issues/140) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-3. ❗ Opened issue [#139](https://github.com/CharaChorder/DeviceManager/issues/139) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-4. ❗ Opened issue [#138](https://github.com/CharaChorder/DeviceManager/issues/138) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-5. ❗ Opened issue [#94](https://github.com/CharaChorder/CCOS-firmware/issues/94) in [CharaChorder/CCOS-firmware](https://github.com/CharaChorder/CCOS-firmware)
+1. ❗ Opened issue [#410](https://github.com/hacksider/Deep-Live-Cam/issues/410) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
+2. ❗ Opened issue [#141](https://github.com/CharaChorder/DeviceManager/issues/141) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
+3. ❗ Opened issue [#140](https://github.com/CharaChorder/DeviceManager/issues/140) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
+4. ❗ Opened issue [#139](https://github.com/CharaChorder/DeviceManager/issues/139) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
+5. ❗ Opened issue [#138](https://github.com/CharaChorder/DeviceManager/issues/138) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
 <!--END_SECTION:activity-->
 
 <!--
