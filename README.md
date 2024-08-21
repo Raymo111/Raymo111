@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#410](https://github.com/hacksider/Deep-Live-Cam/issues/410) in [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam)
-2. ❗ Opened issue [#141](https://github.com/CharaChorder/DeviceManager/issues/141) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-3. ❗ Opened issue [#140](https://github.com/CharaChorder/DeviceManager/issues/140) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-4. ❗ Opened issue [#139](https://github.com/CharaChorder/DeviceManager/issues/139) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
-5. ❗ Opened issue [#138](https://github.com/CharaChorder/DeviceManager/issues/138) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
+1. 🗣 Commented on [#91](https://github.com/CharaChorder/nexus/issues/91#issuecomment-2302856384) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🔒 Closed issue [#52](https://github.com/CharaChorder/nexus/issues/52) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🗣 Commented on [#52](https://github.com/CharaChorder/nexus/issues/52#issuecomment-2302852679) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. 🔒 Closed issue [#7](https://github.com/CharaChorder/nexus/issues/7) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🗣 Commented on [#7](https://github.com/CharaChorder/nexus/issues/7#issuecomment-2302849741) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
