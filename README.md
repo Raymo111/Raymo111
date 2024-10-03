@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#145](https://github.com/CharaChorder/nexus/pull/145) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. 🗣 Commented on [#551](https://github.com/boltgolt/howdy/issues/551#issuecomment-2322203894) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
-3. 🔒 Closed issue [#141](https://github.com/CharaChorder/nexus/issues/141) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 🚀 Published release [v0.0.1](https://github.com/Raymo111/monokai-v2-1/releases/tag/v0.0.1) in [Raymo111/monokai-v2-1](https://github.com/Raymo111/monokai-v2-1)
+2. 🎉 Merged PR [#145](https://github.com/CharaChorder/nexus/pull/145) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. 🗣 Commented on [#551](https://github.com/boltgolt/howdy/issues/551#issuecomment-2322203894) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
 4. 🔒 Closed issue [#141](https://github.com/CharaChorder/nexus/issues/141) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🎉 Merged PR [#144](https://github.com/CharaChorder/nexus/pull/144) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🔒 Closed issue [#141](https://github.com/CharaChorder/nexus/issues/141) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
