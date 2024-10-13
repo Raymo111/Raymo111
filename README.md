@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/CharaChorder/charachorder.py/issues/4#issuecomment-2403835042) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-2. 🗣 Commented on [#4](https://github.com/CharaChorder/charachorder.py/issues/4#issuecomment-2400053279) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-3. 🚀 Published release [v0.0.1](https://github.com/Raymo111/monokai-v2-1/releases/tag/v0.0.1) in [Raymo111/monokai-v2-1](https://github.com/Raymo111/monokai-v2-1)
-4. 🎉 Merged PR [#145](https://github.com/CharaChorder/nexus/pull/145) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🗣 Commented on [#551](https://github.com/boltgolt/howdy/issues/551#issuecomment-2322203894) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
+1. 🗣 Commented on [#5](https://github.com/CharaChorder/charachorder.py/issues/5#issuecomment-2408795390) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+2. 🗣 Commented on [#6](https://github.com/CharaChorder/charachorder.py/issues/6#issuecomment-2408795115) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+3. 🗣 Commented on [#4](https://github.com/CharaChorder/charachorder.py/issues/4#issuecomment-2403835042) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+4. 🗣 Commented on [#4](https://github.com/CharaChorder/charachorder.py/issues/4#issuecomment-2400053279) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+5. 🚀 Published release [v0.0.1](https://github.com/Raymo111/monokai-v2-1/releases/tag/v0.0.1) in [Raymo111/monokai-v2-1](https://github.com/Raymo111/monokai-v2-1)
 <!--END_SECTION:activity-->
 
 <!--
