@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/CharaChorder/charachorder.py/issues/7#issuecomment-2408981887) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-2. 🗣 Commented on [#5](https://github.com/CharaChorder/charachorder.py/issues/5#issuecomment-2408795390) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-3. 🗣 Commented on [#6](https://github.com/CharaChorder/charachorder.py/issues/6#issuecomment-2408795115) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-4. 🗣 Commented on [#4](https://github.com/CharaChorder/charachorder.py/issues/4#issuecomment-2403835042) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-5. 🗣 Commented on [#4](https://github.com/CharaChorder/charachorder.py/issues/4#issuecomment-2400053279) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+1. 🗣 Commented on [#148](https://github.com/CharaChorder/nexus/issues/148#issuecomment-2426612341) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🗣 Commented on [#7](https://github.com/CharaChorder/charachorder.py/issues/7#issuecomment-2408981887) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+3. 🗣 Commented on [#5](https://github.com/CharaChorder/charachorder.py/issues/5#issuecomment-2408795390) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+4. 🗣 Commented on [#6](https://github.com/CharaChorder/charachorder.py/issues/6#issuecomment-2408795115) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+5. 🗣 Commented on [#4](https://github.com/CharaChorder/charachorder.py/issues/4#issuecomment-2403835042) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
 <!--END_SECTION:activity-->
 
 <!--
