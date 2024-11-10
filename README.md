@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#149](https://github.com/CharaChorder/nexus/pull/149#issuecomment-2443126305) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-2. ❌ Reopened PR [#149](https://github.com/CharaChorder/nexus/pull/149) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-3. ❌ Closed PR [#150](https://github.com/CharaChorder/nexus/pull/150) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. 🗣 Commented on [#149](https://github.com/CharaChorder/nexus/pull/149#issuecomment-2443114835) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🗣 Commented on [#149](https://github.com/CharaChorder/nexus/pull/149#issuecomment-2442832714) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 💪 Opened PR [#11](https://github.com/CharaChorder/charachorder.py/pull/11) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+2. 🗣 Commented on [#149](https://github.com/CharaChorder/nexus/pull/149#issuecomment-2443126305) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+3. ❌ Reopened PR [#149](https://github.com/CharaChorder/nexus/pull/149) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+4. ❌ Closed PR [#150](https://github.com/CharaChorder/nexus/pull/150) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+5. 🗣 Commented on [#149](https://github.com/CharaChorder/nexus/pull/149#issuecomment-2443114835) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
