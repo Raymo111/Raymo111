@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#79](https://github.com/ezyang/tlparse/pull/79) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
-2. 💪 Opened PR [#11](https://github.com/CharaChorder/charachorder.py/pull/11) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
-3. 🗣 Commented on [#149](https://github.com/CharaChorder/nexus/pull/149#issuecomment-2443126305) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-4. ❌ Reopened PR [#149](https://github.com/CharaChorder/nexus/pull/149) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. ❌ Closed PR [#150](https://github.com/CharaChorder/nexus/pull/150) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+1. 🗣 Commented on [#79](https://github.com/ezyang/tlparse/pull/79#issuecomment-2487760663) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
+2. 🎉 Merged PR [#79](https://github.com/ezyang/tlparse/pull/79) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
+3. 💪 Opened PR [#79](https://github.com/ezyang/tlparse/pull/79) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
+4. 💪 Opened PR [#11](https://github.com/CharaChorder/charachorder.py/pull/11) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+5. 🗣 Commented on [#149](https://github.com/CharaChorder/nexus/pull/149#issuecomment-2443126305) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
