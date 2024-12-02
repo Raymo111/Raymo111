@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/ezyang/tlparse/pull/81) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
-2. 🗣 Commented on [#81](https://github.com/ezyang/tlparse/pull/81#issuecomment-2502604079) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
-3. 💪 Opened PR [#81](https://github.com/ezyang/tlparse/pull/81) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
-4. 🗣 Commented on [#79](https://github.com/ezyang/tlparse/pull/79#issuecomment-2487760663) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
-5. 🎉 Merged PR [#79](https://github.com/ezyang/tlparse/pull/79) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
+1. ❗ Opened issue [#151](https://github.com/CharaChorder/DeviceManager/issues/151) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
+2. 🎉 Merged PR [#81](https://github.com/ezyang/tlparse/pull/81) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
+3. 🗣 Commented on [#81](https://github.com/ezyang/tlparse/pull/81#issuecomment-2502604079) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
+4. 💪 Opened PR [#81](https://github.com/ezyang/tlparse/pull/81) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
+5. 🗣 Commented on [#79](https://github.com/ezyang/tlparse/pull/79#issuecomment-2487760663) in [ezyang/tlparse](https://github.com/ezyang/tlparse)
 <!--END_SECTION:activity-->
 
 <!--
