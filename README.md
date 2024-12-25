@@ -64,11 +64,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143261](https://github.com/pytorch/pytorch/pull/143261#issuecomment-2560493940) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 💪 Opened PR [#143778](https://github.com/pytorch/pytorch/pull/143778) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-3. 🎉 Merged PR [#39](https://github.com/Raymo111/kahoot-answer-bot/pull/39) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-4. 🗣 Commented on [#155](https://github.com/mautrix/discord/issues/155#issuecomment-2510718344) in [mautrix/discord](https://github.com/mautrix/discord)
-5. ❗ Opened issue [#151](https://github.com/CharaChorder/DeviceManager/issues/151) in [CharaChorder/DeviceManager](https://github.com/CharaChorder/DeviceManager)
+1. 🗣 Commented on [#143778](https://github.com/pytorch/pytorch/pull/143778#issuecomment-2561825657) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 🗣 Commented on [#143261](https://github.com/pytorch/pytorch/pull/143261#issuecomment-2560493940) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. 💪 Opened PR [#143778](https://github.com/pytorch/pytorch/pull/143778) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+4. 🎉 Merged PR [#39](https://github.com/Raymo111/kahoot-answer-bot/pull/39) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
+5. 🗣 Commented on [#155](https://github.com/mautrix/discord/issues/155#issuecomment-2510718344) in [mautrix/discord](https://github.com/mautrix/discord)
 <!--END_SECTION:activity-->
 
 <!--
