@@ -1,6 +1,8 @@
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=Raymo111.Raymo111&color=00cf00)
+
+*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍: *`2024-12-27` <!-- TODO: automate this -->
 <!--
 **Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +42,7 @@ Here are some ideas to get you started:
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
-- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
+- 💼 𝙿𝚛𝚘𝚍𝚞𝚌𝚝𝚒𝚘𝚗 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛, 𝙰𝙸 𝙿𝙴 𝙿𝚢𝚃𝚘𝚛𝚌𝚑 𝚊𝚝 [<img src="https://github.com/user-attachments/assets/c47ece6e-0c78-42dc-802b-341bc8c02a14" height="30em" align="center" alt="Meta" title="Meta"/>](https://github.com/facebook)
 - 💜 [𝙾𝚙𝚎𝚗 𝚜𝚘𝚞𝚛𝚌𝚎](https://github.com/CharaChorder) 𝚊𝚝 [CharaChorder <img src="https://avatars.githubusercontent.com/u/103693671?s=200&v=4" height="30em" align="center" alt="CharaChorder Logo" title="CharaChorder Logo"/>](https://CharaChorder.com)
 - 🎓 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝙲𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝚆𝚊𝚝𝚎𝚛𝚕𝚘𝚘, 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 𝟸0𝟸𝟺
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚘𝚙𝚎𝚗-𝚜𝚘𝚞𝚛𝚌𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 𝚝𝚑𝚎 [𝙰𝚄𝚁](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
@@ -64,8 +66,8 @@ Here are some ideas to get you started:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
 
-## 📜 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝙶𝚒𝚜𝚝𝚜 (and the odd repo that's basically a Gist)
-*Last updated on 2024-12-26.*
+## 📜 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚖𝚢 𝙶𝚒𝚜𝚝𝚜
+(𝚊𝚗𝚍 𝚝𝚑𝚎 𝚘𝚍𝚍 𝚛𝚎𝚙𝚘 𝚝𝚑𝚊𝚝'𝚜 𝚋𝚊𝚜𝚒𝚌𝚊𝚕𝚕𝚢 𝚊 𝙶𝚒𝚜𝚝)
 
 ### 𝙻𝚒𝚗𝚞𝚡 𝚃𝚞𝚝𝚘𝚛𝚒𝚊𝚕𝚜
 - [𝙷𝚘𝚠 𝚝𝚘 𝚂𝚎𝚝𝚞𝚙 𝚊 𝚁𝚊𝚜𝚙𝚋𝚎𝚛𝚛𝚢 𝙿𝚒](https://gist.github.com/Raymo111/3981668f8055d4d74ff9e7afb5471756)
@@ -86,6 +88,9 @@ Here are some ideas to get you started:
 ### 𝙼𝚒𝚜𝚌/𝚏𝚞𝚗/𝚛𝚊𝚗𝚍𝚘𝚖 𝚜𝚝𝚞𝚏𝚏
 - [𝚂𝚝𝚊𝚗𝚍𝚊𝚛𝚍𝚒𝚣𝚎𝚍 𝙴𝚗𝚐𝚕𝚒𝚜𝚑 𝙰𝚕𝚙𝚑𝚊𝚋𝚎𝚝](https://gist.github.com/Raymo111/7c81bb38635a51c178af46d9676619f3)
 
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.indepth=true&repositories.forks=true&languages=1&stargazers=1&stars=1&people=1&notable=1&traffic=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&notable=false&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&notable.self=false&traffic=false&gists=false&config.timezone=America%2FLos_Angeles)
+
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#143778](https://github.com/pytorch/pytorch/pull/143778#issuecomment-2561825657) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
@@ -101,9 +106,6 @@ Here are some ideas to get you started:
 	<img src="https://github.com/Raymo111/Raymo111/raw/master/tweet.png" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
 </a>
 -->
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
-![Metrics](https://metrics.lecoq.io/Raymo111?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
