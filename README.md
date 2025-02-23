@@ -93,11 +93,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#81](https://github.com/CharaChorder/docs/pull/81) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
-2. 💪 Opened PR [#81](https://github.com/CharaChorder/docs/pull/81) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
-3. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2672936348) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-4. 🗣 Commented on [#146736](https://github.com/pytorch/pytorch/pull/146736#issuecomment-2655116049) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-5. ❗ Opened issue [#60](https://github.com/oven-lab/tuya_cloud_map_extractor/issues/60) in [oven-lab/tuya_cloud_map_extractor](https://github.com/oven-lab/tuya_cloud_map_extractor)
+1. 🎉 Merged PR [#156](https://github.com/CharaChorder/nexus/pull/156) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
+2. 🎉 Merged PR [#81](https://github.com/CharaChorder/docs/pull/81) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+3. 💪 Opened PR [#81](https://github.com/CharaChorder/docs/pull/81) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+4. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2672936348) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. 🗣 Commented on [#146736](https://github.com/pytorch/pytorch/pull/146736#issuecomment-2655116049) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
 
 <!--
