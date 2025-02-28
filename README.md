@@ -93,11 +93,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2685969335) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. ❗ Opened issue [#4277](https://github.com/lwouis/alt-tab-macos/issues/4277) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-3. 🎉 Merged PR [#306](https://github.com/Raymo111/i3lock-color/pull/306) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🎉 Merged PR [#156](https://github.com/CharaChorder/nexus/pull/156) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
-5. 🎉 Merged PR [#81](https://github.com/CharaChorder/docs/pull/81) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+1. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2687608369) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+2. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2685969335) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+3. ❗ Opened issue [#4277](https://github.com/lwouis/alt-tab-macos/issues/4277) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+4. 🎉 Merged PR [#306](https://github.com/Raymo111/i3lock-color/pull/306) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+5. 🎉 Merged PR [#156](https://github.com/CharaChorder/nexus/pull/156) in [CharaChorder/nexus](https://github.com/CharaChorder/nexus)
 <!--END_SECTION:activity-->
 
 <!--
