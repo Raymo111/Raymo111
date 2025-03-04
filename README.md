@@ -93,11 +93,11 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#294](https://github.com/facebook/chef-cookbooks/pull/294) in [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks)
-2. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2687608369) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-3. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2685969335) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-4. ❗ Opened issue [#4277](https://github.com/lwouis/alt-tab-macos/issues/4277) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
-5. 🎉 Merged PR [#306](https://github.com/Raymo111/i3lock-color/pull/306) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#294](https://github.com/facebook/chef-cookbooks/pull/294#issuecomment-2695404363) in [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks)
+2. 🗣 Commented on [#294](https://github.com/facebook/chef-cookbooks/pull/294#issuecomment-2695402355) in [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks)
+3. 💪 Opened PR [#294](https://github.com/facebook/chef-cookbooks/pull/294) in [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks)
+4. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2687608369) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+5. 🗣 Commented on [#146537](https://github.com/pytorch/pytorch/pull/146537#issuecomment-2685969335) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
 
 <!--
