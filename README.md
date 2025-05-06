@@ -93,8 +93,8 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152738](https://github.com/pytorch/pytorch/pull/152738) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-2. 🗣 Commented on [#11](https://github.com/CharaChorder/charachorder.py/pull/11#issuecomment-2764229846) in [CharaChorder/charachorder.py](https://github.com/CharaChorder/charachorder.py)
+1. 🎉 Merged PR [#309](https://github.com/Raymo111/i3lock-color/pull/309) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+2. 💪 Opened PR [#152738](https://github.com/pytorch/pytorch/pull/152738) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 3. 🎉 Merged PR [#307](https://github.com/Raymo111/i3lock-color/pull/307) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#262](https://github.com/Raymo111/i3lock-color/pull/262#issuecomment-2709758751) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 5. 🎉 Merged PR [#262](https://github.com/Raymo111/i3lock-color/pull/262) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
