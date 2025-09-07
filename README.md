@@ -95,9 +95,9 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#312](https://github.com/Raymo111/i3lock-color/issues/312#issuecomment-3219140320) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-2. 🗣 Commented on [#158688](https://github.com/pytorch/pytorch/pull/158688#issuecomment-3098011469) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
-3. 💪 Opened PR [#158688](https://github.com/pytorch/pytorch/pull/158688) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
+2. 🗣 Commented on [#198](https://github.com/Aorimn/dislocker/pull/198#issuecomment-3264066776) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
+3. 🗣 Commented on [#312](https://github.com/Raymo111/i3lock-color/issues/312#issuecomment-3219140320) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. 🗣 Commented on [#158588](https://github.com/pytorch/pytorch/issues/158588#issuecomment-3085490661) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 5. 💪 Opened PR [#158484](https://github.com/pytorch/pytorch/pull/158484) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
