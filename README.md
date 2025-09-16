@@ -95,10 +95,10 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
-2. 🗣 Commented on [#198](https://github.com/Aorimn/dislocker/pull/198#issuecomment-3264066776) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
-3. 🗣 Commented on [#312](https://github.com/Raymo111/i3lock-color/issues/312#issuecomment-3219140320) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
-4. 🗣 Commented on [#158588](https://github.com/pytorch/pytorch/issues/158588#issuecomment-3085490661) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
+1. ❗ Opened issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
+2. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
+3. 🗣 Commented on [#198](https://github.com/Aorimn/dislocker/pull/198#issuecomment-3264066776) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
+4. 🗣 Commented on [#312](https://github.com/Raymo111/i3lock-color/issues/312#issuecomment-3219140320) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 5. 💪 Opened PR [#158484](https://github.com/pytorch/pytorch/pull/158484) in [pytorch/pytorch](https://github.com/pytorch/pytorch)
 <!--END_SECTION:activity-->
 
