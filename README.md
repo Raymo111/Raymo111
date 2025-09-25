@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 1. 🔒 Closed issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
 2. 🗣 Commented on [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847#issuecomment-3300645615) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
 3. ❗ Opened issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
-4. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
+4. ❌ Closed PR [#198](undefined) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
 5. 🗣 Commented on [#198](https://github.com/Aorimn/dislocker/pull/198#issuecomment-3264066776) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
 <!--END_SECTION:activity-->
 
