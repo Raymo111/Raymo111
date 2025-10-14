@@ -95,9 +95,9 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#42](https://github.com/Raymo111/kahoot-answer-bot/issues/42) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🔒 Closed issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
-3. 🗣 Commented on [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847#issuecomment-3300645615) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
+1. 🔒 Closed issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
+2. 🗣 Commented on [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847#issuecomment-3300645615) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
+3. ❗ Opened issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
 4. ❗ Opened issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
 5. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
 <!--END_SECTION:activity-->
