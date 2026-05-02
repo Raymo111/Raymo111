@@ -95,8 +95,8 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#44](https://github.com/Raymo111/kahoot-answer-bot/issues/44) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
-2. 🔒 Closed issue [#316](https://github.com/Raymo111/i3lock-color/issues/316) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
+1. 🗣 Commented on [#3926](https://github.com/lwouis/alt-tab-macos/pull/3926#issuecomment-4362574751) in [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos)
+2. 🔒 Closed issue [#44](https://github.com/Raymo111/kahoot-answer-bot/issues/44) in [Raymo111/kahoot-answer-bot](https://github.com/Raymo111/kahoot-answer-bot)
 3. 🗣 Commented on [#316](https://github.com/Raymo111/i3lock-color/issues/316#issuecomment-3615689707) in [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color)
 4. ❗ Opened issue [#847](https://github.com/LukeZGD/Legacy-iOS-Kit/issues/847) in [LukeZGD/Legacy-iOS-Kit](https://github.com/LukeZGD/Legacy-iOS-Kit)
 5. ❌ Closed PR [#198](https://github.com/Aorimn/dislocker/pull/198) in [Aorimn/dislocker](https://github.com/Aorimn/dislocker)
