@@ -95,9 +95,9 @@ Here are some ideas to get you started:
 
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#146](https://github.com/CharaChorder/docs/pull/146) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
-2. 🗣 Commented on [#4](https://github.com/Raymo111/iPetitions-Bot/issues/4#issuecomment-6282547987) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
-3. 💪 Opened PR [#1](https://github.com/slendidev/libvinput.py/pull/1) in [slendidev/libvinput.py](https://github.com/slendidev/libvinput.py)
+1. 🎉 Merged PR [#146](https://github.com/CharaChorder/docs/pull/146) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+2. 💪 Opened PR [#146](https://github.com/CharaChorder/docs/pull/146) in [CharaChorder/docs](https://github.com/CharaChorder/docs)
+3. 🗣 Commented on [#4](https://github.com/Raymo111/iPetitions-Bot/issues/4#issuecomment-6282547987) in [Raymo111/iPetitions-Bot](https://github.com/Raymo111/iPetitions-Bot)
 4. 💪 Opened PR [#3](https://github.com/slendidev/libvinput/pull/3) in [slendidev/libvinput](https://github.com/slendidev/libvinput)
 5. 🗣 Commented on [#1128](https://github.com/boltgolt/howdy/pull/1128#issuecomment-5127086723) in [boltgolt/howdy](https://github.com/boltgolt/howdy)
 <!--END_SECTION:activity-->
